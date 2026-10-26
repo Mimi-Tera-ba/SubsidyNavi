@@ -63,24 +63,42 @@ body {
   justify-content: space-between;
 }
 
-.brand-link {
-  display: flex;
+/* 親サイトへの戻りリンク（他のマップツールと完全統一） */
+.parent-site-link {
+  display: inline-flex;
   align-items: center;
+  gap: 6px;
+  background: #f8fafc;
+  color: #333333;
+  padding: 5px 12px;
+  border-radius: 9999px;
+  font-size: 0.85rem;
+  font-weight: 700;
   text-decoration: none;
-  transition: opacity 0.2s ease, transform 0.2s ease;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+  transition: all 0.2s ease;
+  flex-shrink: 0;
 }
 
-.brand-link:hover {
-  opacity: 0.85;
+.parent-site-link:hover {
+  background: #ffffff;
+  border-color: #cbd5e1;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
   transform: translateY(-1px);
 }
 
-.brand-logo-img {
-  height: 32px;
+.parent-logo-img {
+  height: 20px;
   width: auto;
-  max-width: 160px;
   display: block;
   object-fit: contain;
+}
+
+.back-arrow {
+  font-size: 0.95rem;
+  color: #64748b;
+  line-height: 1;
 }
 
 .header-links {
@@ -740,8 +758,8 @@ body {
     align-items: flex-start;
   }
 
-  .brand-logo-img {
-    height: 28px;
+  .parent-logo-img {
+    height: 18px;
   }
 
   .rules-grid {
