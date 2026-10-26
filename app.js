@@ -22,10 +22,23 @@ document.addEventListener("DOMContentLoaded", () => {
   let currentKeyword = "";
   let currentTarget = "all"; // "all" | "child" | "senior"
 
-  // 1. 都道府県プルダウンの初期化
+  // 1. 都道府県プルダウンの初期化（subsidyDataから自動生成）
   function initPrefSelect() {
     prefSelect.innerHTML = "";
-    prefList.forEach((pref) => {
+    const defaultOption = document.createElement("option");
+    defaultOption.value = "すべて";
+    defaultOption.textContent = "すべて";
+    prefSelect.appendChild(defaultOption);
+
+    // データに存在する都道府県をJIS順（北から南）でユニーク抽出
+    const prefs = [];
+    subsidyData.forEach((item) => {
+      if (!prefs.includes(item.pref)) {
+        prefs.push(item.pref);
+      }
+    });
+
+    prefs.forEach((pref) => {
       const option = document.createElement("option");
       option.value = pref;
       option.textContent = pref;
