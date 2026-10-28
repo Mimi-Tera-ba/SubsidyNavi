@@ -17753,6 +17753,60 @@ const subsidyData = [
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Emblem_of_Nara%2C_Nara.svg/120px-Emblem_of_Nara%2C_Nara.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
+    "cityCode": "292028",
+    "id": "yamatotakada-nara",
+    "pref": "奈良県",
+    "city": "大和高田市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Emblem_of_Yamatotakada%2C_Nara.svg/120px-Emblem_of_Yamatotakada%2C_Nara.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "大和高田市軽度・中等度難聴児補聴器購入費助成",
+        "amount": "基準額の2/3（1,000円未満切捨て、自己負担1/3）",
+        "condition": "市内に在住する18歳未満の児童で、身体障害者手帳の対象外、両耳の聴力レベルが原則30dB以上70dB未満で医師が装用を必要と認めた方（所得制限あり）",
+        "department": "大和高田市役所 福祉部 障害福祉課",
+        "officialUrl": "https://www.city.yamatotakada.nara.jp/soshikikarasagasu/shogaifukushika/shogaishafukushi/2/1756.html"
+      }
+    ]
+  },
+  {
+    "cityCode": "292036",
+    "id": "yamatokoriyama-nara",
+    "pref": "奈良県",
+    "city": "大和郡山市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Emblem_of_Yamatok%C5%8Driyama%2C_Nara.svg/120px-Emblem_of_Yamatok%C5%8Driyama%2C_Nara.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "大和郡山市難聴児補聴器購入費助成金交付制度",
+        "amount": "基準額または実費の少ない方の2/3（自己負担1/3）",
+        "condition": "市内に在住する18歳未満の児童で、身体障害者手帳の対象外、原則両耳の聴力レベルが30dB以上70dB未満（医師が必要と認めた場合は片耳・30dB未満も可）で医師が装用効果を認めた方（所得制限あり）",
+        "department": "大和郡山市役所 福祉部 障害福祉課",
+        "officialUrl": "https://www.city.yamatokoriyama.lg.jp/section/reiki_int/reiki_honbun/k404RG00001102.html"
+      }
+    ]
+  },
+  {
+    "cityCode": "292044",
+    "id": "tenri-nara",
+    "pref": "奈良県",
+    "city": "天理市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Emblem_of_Tenri%2C_Nara.svg/120px-Emblem_of_Tenri%2C_Nara.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "天理市軽度・中等度難聴児補聴器購入費助成事業",
+        "amount": "基準額の2/3（自己負担1/3）",
+        "condition": "市内に在住する18歳未満の児童で、身体障害者手帳の対象外、両耳の聴力レベルが原則30dB以上70dB未満等で医師が装用効果を認めた方（所得制限あり）",
+        "department": "天理市役所 健康福祉部 社会福祉課 障害福祉係",
+        "officialUrl": "https://www.city.tenri.nara.jp/kakuka/kenkoufukushibu/shakaifukushika/fukusi/index.html"
+      }
+    ]
+  },
+  {
     "cityCode": "292052",
     "id": "nara-kashihara",
     "pref": "奈良県",
@@ -17775,6 +17829,84 @@ const subsidyData = [
     ],
     "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Emblem_of_Kashihara%2C_Nara.svg/120px-Emblem_of_Kashihara%2C_Nara.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Emblem_of_Kashihara%2C_Nara.svg/120px-Emblem_of_Kashihara%2C_Nara.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "292061",
+    "id": "sakurai-nara",
+    "pref": "奈良県",
+    "city": "桜井市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Emblem_of_Sakurai%2C_Nara.svg/120px-Emblem_of_Sakurai%2C_Nara.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "桜井市軽度・中等度難聴児補聴器購入助成事業",
+        "amount": "基準額または費用の2/3（自己負担1/3）",
+        "condition": "市内に在住する18歳未満の児童で、身体障害者手帳の対象外、原則両耳の聴力レベルが30dB以上70dB未満で医師が装用効果を認めた方（所得制限あり）",
+        "department": "桜井市役所 福祉保健部 社会福祉課",
+        "officialUrl": "https://www.city.sakurai.lg.jp/sosiki/hukushihokenbu/syakaihukushika/sien/kyufu/keihocyouki/index.html"
+      },
+      {
+        "target": "senior",
+        "title": "桜井市高齢者補聴器購入費用補助制度",
+        "amount": "上限20,000円（購入費用の1/2、1人1回限り）",
+        "condition": "市内に在住する満65歳以上で身体障害者手帳の対象外、両耳50dB以上70dB未満または片耳30dB以上かつ他耳70dB未満、住民税非課税世帯の方（事前申請必須）",
+        "department": "桜井市役所 福祉保健部 高齢福祉課",
+        "officialUrl": "https://www.city.sakurai.lg.jp/sosiki/hukushihokenbu/koureihukushika/kyufujosei/6372.html"
+      }
+    ]
+  },
+  {
+    "cityCode": "292079",
+    "id": "gojo-nara",
+    "pref": "奈良県",
+    "city": "五條市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Emblem_of_Gojo%2C_Nara.svg/120px-Emblem_of_Gojo%2C_Nara.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "五條市難聴児補聴器購入費助成金交付制度",
+        "amount": "基準額の2/3（自己負担1/3）",
+        "condition": "市内に在住する18歳未満の児童で、身体障害者手帳の対象外、原則30dB以上70dB未満で医師が装用効果を認めた方（所得制限あり）",
+        "department": "五條市役所 福祉課 障害福祉係",
+        "officialUrl": "https://www.city.gojo.lg.jp/section/reiki_int/reiki_honbun/k408RG00000999.html"
+      },
+      {
+        "target": "senior",
+        "title": "五條市高齢者補聴器等購入助成事業",
+        "amount": "上限20,000円（購入費用の1/2、軟骨伝導集音器も対象、1人1回限り）",
+        "condition": "市内に引き続き1年以上在住する満65歳以上で身体障害者手帳の対象外、耳鼻咽喉科医が装用が必要と認めた方（市税滞納なし・事前申請必須）",
+        "department": "五條市役所 介護福祉課",
+        "officialUrl": "https://www.city.gojo.lg.jp/soshiki/kaigo_fukushi/1_2/16998.html"
+      }
+    ]
+  },
+  {
+    "cityCode": "292087",
+    "id": "gose-nara",
+    "pref": "奈良県",
+    "city": "御所市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Emblem_of_Gose%2C_Nara.svg/120px-Emblem_of_Gose%2C_Nara.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "御所市難聴児補聴器購入費助成制度",
+        "amount": "基準額の2/3（1,000円未満切捨て、自己負担1/3）",
+        "condition": "市内に在住する18歳未満の児童で、身体障害者手帳の対象外、両耳30dB以上70dB未満等で医師が装用効果を認めた方（所得制限あり）",
+        "department": "御所市役所 福祉課 障害福祉係",
+        "officialUrl": "https://www.city.gose.nara.jp/0000000021.html"
+      },
+      {
+        "target": "senior",
+        "title": "御所市難聴高齢者補聴器購入費助成制度",
+        "amount": "上限20,000円（購入費用の1/2、1人1回限り）",
+        "condition": "市内に在住する満65歳以上で身体障害者手帳の対象外、両耳50dB以上70dB未満または片耳30dB以上かつ他耳70dB以上、医師が装用が必要と認めた方（市税滞納なし・事前申請必須）",
+        "department": "御所市役所 高齢対策課（御所市地域包括支援センター）",
+        "officialUrl": "https://www.city.gose.nara.jp/0000004301.html"
+      }
+    ]
   },
   {
     "cityCode": "292095",
@@ -17836,6 +17968,50 @@ const subsidyData = [
     ],
     "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Emblem_of_Kashiba%2C_Nara.svg/120px-Emblem_of_Kashiba%2C_Nara.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Emblem_of_Kashiba%2C_Nara.svg/120px-Emblem_of_Kashiba%2C_Nara.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "292117",
+    "id": "katsuragi-nara",
+    "pref": "奈良県",
+    "city": "葛城市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Emblem_of_Katsuragi%2C_Nara.svg/120px-Emblem_of_Katsuragi%2C_Nara.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "葛城市軽度・中等度難聴児補聴器購入費用助成制度",
+        "amount": "基準額の2/3（自己負担1/3）",
+        "condition": "市内に在住する18歳未満の児童で、身体障害者手帳の対象外、両耳30dB以上70dB未満等で医師が装用効果を認めた方（所得制限あり）",
+        "department": "葛城市役所 社会福祉課 障害福祉係",
+        "officialUrl": "https://www.city.katsuragi.nara.jp/soshiki/shakaifukushika/8/8979.html"
+      }
+    ]
+  },
+  {
+    "cityCode": "292125",
+    "id": "uda-nara",
+    "pref": "奈良県",
+    "city": "宇陀市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Emblem_of_Uda%2C_Nara.svg/120px-Emblem_of_Uda%2C_Nara.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "宇陀市軽度・中等度難聴児補聴器購入費助成事業",
+        "amount": "基準額の2/3（自己負担1/3）",
+        "condition": "市内に在住する18歳未満の児童で、身体障害者手帳の対象外、両耳30dB以上70dB未満等で医師が装用効果を認めた方（所得制限あり）",
+        "department": "宇陀市役所 福祉医療課（障害福祉担当）",
+        "officialUrl": "https://www.city.uda.lg.jp/soshiki/20/16702.html"
+      },
+      {
+        "target": "senior",
+        "title": "宇陀市高齢者補聴器購入費助成事業",
+        "amount": "上限20,000円（購入費用の1/2、1台分、1人1回限り）",
+        "condition": "市内に在住する満65歳以上で身体障害者手帳の対象外、両耳50dB以上70dB未満または片耳30dB以上かつ他耳70dB以上、指定医が補聴器を必要と診断した方（市税滞納なし・事前申請必須）",
+        "department": "宇陀市役所 介護福祉課",
+        "officialUrl": "https://www.city.uda.lg.jp/soshiki/20/24475.html"
+      }
+    ]
   },
   {
     "cityCode": "302015",
