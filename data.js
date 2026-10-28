@@ -14749,6 +14749,710 @@ const subsidyData = [
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Emblem_of_Takahama%2C_Aichi.svg/120px-Emblem_of_Takahama%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
+    "cityCode": "232289",
+    "id": "aichi-iwakura",
+    "pref": "愛知県",
+    "city": "岩倉市",
+    "area": "東海",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども（18歳未満）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "岩倉市 軽度・中等度難聴児補聴器購入費助成事業",
+        "amount": "基準額等の2/3補助（非課税世帯等は全額）",
+        "condition": "18歳未満、両耳30dB以上、手帳対象外、医師が必要と認めた児童",
+        "department": "福祉課 障がい福祉グループ",
+        "officialUrl": "https://www.city.iwakura.aichi.jp/0000002874.html",
+        "notes": "※購入前の事前申請が必須です。医師意見書が必要です。",
+        "specialNote": ""
+      },
+      {
+        "target": "senior",
+        "targetLabel": "高齢者（65歳以上）",
+        "badgeBg": "#FEF3C7",
+        "badgeColor": "#B45309",
+        "title": "岩倉市 難聴高齢者補聴器購入費助成事業",
+        "amount": "購入費の1/2（非課税上限30,000円、課税上限15,000円）",
+        "condition": "65歳以上、両耳30dB以上70dB未満、手帳対象外、医師証明要",
+        "department": "長寿介護課 長寿福祉グループ",
+        "officialUrl": "https://www.city.iwakura.aichi.jp/0000006345.html",
+        "notes": "※購入前の事前申請が必須です。医師の証明書が必要です。",
+        "specialNote": "【課税世帯も上限1.5万円で対象】"
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Emblem_of_Iwakura%2C_Aichi.svg/120px-Emblem_of_Iwakura%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Emblem_of_Iwakura%2C_Aichi.svg/120px-Emblem_of_Iwakura%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "232297",
+    "id": "aichi-toyoake",
+    "pref": "愛知県",
+    "city": "豊明市",
+    "area": "東海",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども（18歳未満）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "豊明市 軽度・中等度難聴児補聴器購入費等助成事業",
+        "amount": "基準額等の9/10補助（非課税世帯等は全額）",
+        "condition": "18歳未満、両耳30dB以上、手帳対象外、医師が必要と認めた児童",
+        "department": "地域福祉課",
+        "officialUrl": "https://www.city.toyoake.lg.jp/1181.htm",
+        "notes": "※購入前の事前申請が必須です。医師意見書が必要です。",
+        "specialNote": "【基準額の9割補助】"
+      },
+      {
+        "target": "senior",
+        "targetLabel": "高齢者（60歳以上）",
+        "badgeBg": "#FEF3C7",
+        "badgeColor": "#B45309",
+        "title": "豊明市 高齢者補聴器購入費助成事業",
+        "amount": "購入費の1/2（非課税上限30,000円、課税上限15,000円）",
+        "condition": "60歳以上、両耳30dB以上70dB未満、手帳対象外、相談医証明要",
+        "department": "長寿課 地域ケア推進係",
+        "officialUrl": "https://www.city.toyoake.lg.jp/19272.htm",
+        "notes": "※購入前の事前申請が必須です。補聴器相談医の証明書が必要です。",
+        "specialNote": "【対象: 60歳以上・課税世帯も対象】"
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Emblem_of_Toyoake%2C_Aichi.svg/120px-Emblem_of_Toyoake%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Emblem_of_Toyoake%2C_Aichi.svg/120px-Emblem_of_Toyoake%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "232301",
+    "id": "aichi-nisshin",
+    "pref": "愛知県",
+    "city": "日進市",
+    "area": "東海",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども（18歳未満）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "日進市 軽度・中等度難聴児補聴器購入費等助成事業",
+        "amount": "基準額等の2/3（片耳上限39,600円、両耳上限79,200円）",
+        "condition": "18歳以下、両耳30dB以上、手帳対象外、医師が必要と認めた児童",
+        "department": "地域福祉課",
+        "officialUrl": "https://www.city.nisshin.lg.jp/department/fukushi/fukushi/3/2/6/nichijoshien/2455.html",
+        "notes": "※購入前の事前申請が必須です。医師の意見書が必要です。",
+        "specialNote": "【片耳上限39,600円・両耳上限79,200円】"
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Emblem_of_Nisshin%2C_Aichi.svg/120px-Emblem_of_Nisshin%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Emblem_of_Nisshin%2C_Aichi.svg/120px-Emblem_of_Nisshin%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "232319",
+    "id": "aichi-tahara",
+    "pref": "愛知県",
+    "city": "田原市",
+    "area": "東海",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども（18歳未満）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "田原市 軽度・中等度難聴児補聴器費の支給（日常生活用具給付等事業）",
+        "amount": "基準額等の2/3補助",
+        "condition": "18歳未満、両耳30dB以上、手帳対象外、医師が必要と認めた児童",
+        "department": "地域福祉課",
+        "officialUrl": "https://www.city.tahara.aichi.jp/fukushi/shogai/1001184.html",
+        "notes": "※購入前の事前申請が必須です。医師意見書が必要です。",
+        "specialNote": ""
+      },
+      {
+        "target": "senior",
+        "targetLabel": "高齢者（65歳以上）",
+        "badgeBg": "#FEF3C7",
+        "badgeColor": "#B45309",
+        "title": "田原市 難聴高齢者補聴器購入費助成事業",
+        "amount": "上限30,000円（本体購入費の1/2）",
+        "condition": "65歳以上、市民税非課税世帯、両耳30dB以上、手帳対象外、医師証明要",
+        "department": "高齢福祉課",
+        "officialUrl": "https://www.city.tahara.aichi.jp/fukushi/otoshiryori/1011750.html",
+        "notes": "※購入前の事前申請が必須です。耳鼻咽喉科医師の証明書が必要です。",
+        "specialNote": "【市民税非課税世帯対象】"
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Emblem_of_Tahara%2C_Aichi.svg/120px-Emblem_of_Tahara%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Emblem_of_Tahara%2C_Aichi.svg/120px-Emblem_of_Tahara%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "232327",
+    "id": "aichi-aisai",
+    "pref": "愛知県",
+    "city": "愛西市",
+    "area": "東海",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども（18歳未満）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "愛西市 軽度・中等度難聴児補聴器購入費助成事業",
+        "amount": "基準額等の2/3補助",
+        "condition": "18歳未満、軽度・中等度難聴、手帳対象外、医師が必要と認めた児童",
+        "department": "健康子ども部 子育て支援課",
+        "officialUrl": "https://www.city.aisai.lg.jp/0000001169.html",
+        "notes": "※購入前の事前申請が必須です。医師の意見書が必要です。",
+        "specialNote": ""
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Emblem_of_Aisai%2C_Aichi.svg/120px-Emblem_of_Aisai%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Emblem_of_Aisai%2C_Aichi.svg/120px-Emblem_of_Aisai%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "232335",
+    "id": "aichi-kiyosu",
+    "pref": "愛知県",
+    "city": "清須市",
+    "area": "東海",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども（18歳未満）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "清須市 軽度・中等度難聴児補聴器購入費補助金",
+        "amount": "基準額等の2/3補助",
+        "condition": "18歳未満、両耳30dB以上、手帳対象外、医師が必要と認めた児童",
+        "department": "健康福祉部 社会福祉課",
+        "officialUrl": "https://www.city.kiyosu.aichi.jp/kenko_iryo/fukushi_kaigo/shogaisha_fukushi/jiritsushien_kyofu.html",
+        "notes": "※要綱に基づく助成制度です。購入前に社会福祉課への事前相談が必須です。",
+        "specialNote": "【事前相談要】"
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Emblem_of_Kiyosu%2C_Aichi.svg/120px-Emblem_of_Kiyosu%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Emblem_of_Kiyosu%2C_Aichi.svg/120px-Emblem_of_Kiyosu%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "232343",
+    "id": "aichi-kitanagoya",
+    "pref": "愛知県",
+    "city": "北名古屋市",
+    "area": "東海",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども（18歳未満）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "北名古屋市 軽度・中等度難聴児補聴器購入費など助成事業",
+        "amount": "基準額等の2/3補助（1,000円未満切り捨て）",
+        "condition": "18歳未満、両耳30dB以上、手帳対象外、指定医意見書要",
+        "department": "福祉こども部 社会福祉課 障害担当",
+        "officialUrl": "https://www.city.kitanagoya.lg.jp/kenko/shogai/1003440/1003447.html",
+        "notes": "※購入前の事前申請が必須です。指定医の意見書が必要です。",
+        "specialNote": ""
+      },
+      {
+        "target": "senior",
+        "targetLabel": "高齢者（65歳以上）",
+        "badgeBg": "#FEF3C7",
+        "badgeColor": "#B45309",
+        "title": "北名古屋市 難聴高齢者補聴器購入費助成事業",
+        "amount": "上限30,000円（購入費の1/2）",
+        "condition": "65歳以上、市民税非課税世帯等、両耳30dB以上、手帳対象外、指定医証明要",
+        "department": "福祉こども部 高齢福祉課 高齢者福祉担当",
+        "officialUrl": "https://www.city.kitanagoya.lg.jp/kenko/korei/1003970/1007245.html",
+        "notes": "※購入前の事前申請が必須です。指定医の証明書が必要です。",
+        "specialNote": "【市民税非課税世帯対象】"
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Emblem_of_Kitanagoya%2C_Aichi.svg/120px-Emblem_of_Kitanagoya%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Emblem_of_Kitanagoya%2C_Aichi.svg/120px-Emblem_of_Kitanagoya%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "232351",
+    "id": "aichi-yatomi",
+    "pref": "愛知県",
+    "city": "弥富市",
+    "area": "東海",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども（18歳未満）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "弥富市 軽度・中等度難聴児補聴器購入費等助成事業",
+        "amount": "基準額等の2/3補助",
+        "condition": "18歳未満、両耳30dB以上70dB未満、手帳対象外、医師が必要と認めた児童",
+        "department": "福祉課",
+        "officialUrl": "https://www.city.yatomi.lg.jp/kurashi/1000308/1000323/1000337/1001837.html",
+        "notes": "※購入前の事前申請が必須です。医師の意見書が必要です。",
+        "specialNote": ""
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Emblem_of_Yatomi%2C_Aichi.svg/120px-Emblem_of_Yatomi%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Emblem_of_Yatomi%2C_Aichi.svg/120px-Emblem_of_Yatomi%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "232360",
+    "id": "aichi-miyoshi",
+    "pref": "愛知県",
+    "city": "みよし市",
+    "area": "東海",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども（18歳未満）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "みよし市 軽度・中等度難聴児補聴器購入費等給付事業",
+        "amount": "基準額等の9/10給付（9割補助）",
+        "condition": "18歳未満、両耳30dB以上70dB未満、手帳対象外、医師が必要と認めた児童",
+        "department": "福祉課",
+        "officialUrl": "https://www.city.aichi-miyoshi.lg.jp/material/files/group/2/miyoshi-kihan5.pdf",
+        "notes": "※購入前の事前申請が必須です。医師の意見書が必要です。",
+        "specialNote": "【基準額の9割給付】"
+      },
+      {
+        "target": "senior",
+        "targetLabel": "高齢者（65歳以上）",
+        "badgeBg": "#FEF3C7",
+        "badgeColor": "#B45309",
+        "title": "みよし市 高齢者難聴用補聴器購入費助成",
+        "amount": "購入費の1/2（非課税上限30,000円、課税上限15,000円）",
+        "condition": "65歳以上、両耳30dB以上70dB未満、手帳対象外、医師が必要と認めた方",
+        "department": "長寿介護課",
+        "officialUrl": "https://www.city.aichi-miyoshi.lg.jp/soshiki/fukushi/choju/1/sonotaservice/589.html",
+        "notes": "※購入前の事前申請が必須です。医師の意見書が必要です。",
+        "specialNote": "【課税世帯も上限1.5万円で対象】"
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Emblem_of_Miyoshi%2C_Aichi.svg/120px-Emblem_of_Miyoshi%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Emblem_of_Miyoshi%2C_Aichi.svg/120px-Emblem_of_Miyoshi%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "232378",
+    "id": "aichi-ama",
+    "pref": "愛知県",
+    "city": "あま市",
+    "area": "東海",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども（18歳未満）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "あま市 軽度・中等度難聴児補聴器購入費等助成事業",
+        "amount": "基準額等の2/3補助",
+        "condition": "18歳未満、聴力レベル30dB以上、手帳対象外、医師意見書要",
+        "department": "福祉部 障がい福祉課",
+        "officialUrl": "https://www.city.ama.aichi.jp/kurashi/fukushi/syougaisya/1002160.html",
+        "notes": "※購入前の事前申請が必須です。医師の意見書が必要です。",
+        "specialNote": ""
+      },
+      {
+        "target": "senior",
+        "targetLabel": "高齢者（65歳以上）",
+        "badgeBg": "#FEF3C7",
+        "badgeColor": "#B45309",
+        "title": "あま市 高齢者補聴器購入費助成事業",
+        "amount": "上限30,000円（購入費の1/2）",
+        "condition": "65歳以上、市民税非課税世帯、聴力レベル30dB以上、手帳対象外、医師証明要",
+        "department": "福祉部 高齢福祉課 高齢福祉係",
+        "officialUrl": "https://www.city.ama.aichi.jp/kurashi/fukushi/koureisya/1010225.html",
+        "notes": "※購入前の事前申請が必須です。医師の証明書が必要です。",
+        "specialNote": "【市民税非課税世帯対象】"
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Emblem_of_Ama%2C_Aichi.svg/120px-Emblem_of_Ama%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Emblem_of_Ama%2C_Aichi.svg/120px-Emblem_of_Ama%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "232386",
+    "id": "aichi-nagakute",
+    "pref": "愛知県",
+    "city": "長久手市",
+    "area": "東海",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども（18歳未満）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "長久手市 軽度・中等度難聴児補聴器購入費等助成事業",
+        "amount": "基準額等の2/3補助",
+        "condition": "18歳以下、身体障害者手帳の対象外、医師により補聴器装用が必要と認められた児童",
+        "department": "福祉部 福祉課 障がい福祉係",
+        "officialUrl": "https://www.city.nagakute.lg.jp/soshiki/fukushibu/fukushika/2/3/nichijyouseikatushien/nichijyoushien/2001.html",
+        "notes": "※購入前の事前申請が必須です。医師の意見書が必要です。",
+        "specialNote": ""
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Emblem_of_Nagakute%2C_Aichi.svg/120px-Emblem_of_Nagakute%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Emblem_of_Nagakute%2C_Aichi.svg/120px-Emblem_of_Nagakute%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "242012",
+    "id": "mie-tsu",
+    "pref": "三重県",
+    "city": "津市",
+    "area": "東海",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども（18歳未満）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "三重県 聴覚障がい児補聴器購入助成制度",
+        "amount": "購入費用の1/3（片耳上限25,000円、両耳上限50,000円）",
+        "condition": "18歳未満、両耳30dB以上70dB未満、手帳非該当、所得制限なし",
+        "department": "障がい福祉課 / 三重県立子ども心身発達医療センター",
+        "officialUrl": "https://www.pref.mie.lg.jp/D1KODOMO/000117786.htm",
+        "notes": "※購入日から3カ月以内に申請が必要です（事前予約・適合確認要）。",
+        "specialNote": "【所得制限・回数制限なし・県全域対象】"
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Emblem_of_Tsu%2C_Mie.svg/120px-Emblem_of_Tsu%2C_Mie.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Emblem_of_Tsu%2C_Mie.svg/120px-Emblem_of_Tsu%2C_Mie.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "242021",
+    "id": "mie-yokkaichi",
+    "pref": "三重県",
+    "city": "四日市市",
+    "area": "東海",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども（18歳未満）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "三重県 聴覚障がい児補聴器購入助成制度",
+        "amount": "購入費用の1/3（片耳上限25,000円、両耳上限50,000円）",
+        "condition": "18歳未満、両耳30dB以上70dB未満、手帳非該当、所得制限なし",
+        "department": "障害福祉課 / 三重県立子ども心身発達医療センター",
+        "officialUrl": "https://www.pref.mie.lg.jp/D1KODOMO/000117786.htm",
+        "notes": "※購入日から3カ月以内に申請が必要です（事前予約・適合確認要）。",
+        "specialNote": "【所得制限・回数制限なし・県全域対象】"
+      },
+      {
+        "target": "senior",
+        "targetLabel": "高齢者（65歳以上）",
+        "badgeBg": "#FEF3C7",
+        "badgeColor": "#B45309",
+        "title": "四日市市 高齢者補聴器購入費助成事業",
+        "amount": "購入費用の1/2以内（上限35,000円）",
+        "condition": "65歳以上、両耳30dB以上70dB未満、手帳非該当、指定医意見書、市民税非課税世帯等",
+        "department": "高齢福祉課",
+        "officialUrl": "https://www.city.yokkaichi.lg.jp/www/contents/1747118464931/index.html",
+        "notes": "※購入前の事前申請が必須です。指定医の意見書が必要です。",
+        "specialNote": "【上限3.5万円・購入前申請必須】"
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Emblem_of_Yokkaichi%2C_Mie.svg/120px-Emblem_of_Yokkaichi%2C_Mie.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Emblem_of_Yokkaichi%2C_Mie.svg/120px-Emblem_of_Yokkaichi%2C_Mie.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "242039",
+    "id": "mie-ise",
+    "pref": "三重県",
+    "city": "伊勢市",
+    "area": "東海",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども（18歳未満）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "三重県 聴覚障がい児補聴器購入助成制度",
+        "amount": "購入費用の1/3（片耳上限25,000円、両耳上限50,000円）",
+        "condition": "18歳未満、両耳30dB以上70dB未満、手帳非該当、所得制限なし",
+        "department": "高齢・障がい福祉課 / 三重県立子ども心身発達医療センター",
+        "officialUrl": "https://www.pref.mie.lg.jp/D1KODOMO/000117786.htm",
+        "notes": "※購入日から3カ月以内に申請が必要です（事前予約・適合確認要）。",
+        "specialNote": "【所得制限・回数制限なし・県全域対象】"
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Emblem_of_Ise%2C_Mie.svg/120px-Emblem_of_Ise%2C_Mie.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Emblem_of_Ise%2C_Mie.svg/120px-Emblem_of_Ise%2C_Mie.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "242047",
+    "id": "mie-matsusaka",
+    "pref": "三重県",
+    "city": "松阪市",
+    "area": "東海",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども（18歳未満）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "三重県 聴覚障がい児補聴器購入助成制度",
+        "amount": "購入費用の1/3（片耳上限25,000円、両耳上限50,000円）",
+        "condition": "18歳未満、両耳30dB以上70dB未満、手帳非該当、所得制限なし",
+        "department": "障がい福祉課 / 三重県立子ども心身発達医療センター",
+        "officialUrl": "https://www.pref.mie.lg.jp/D1KODOMO/000117786.htm",
+        "notes": "※購入日から3カ月以内に申請が必要です（事前予約・適合確認要）。",
+        "specialNote": "【所得制限・回数制限なし・県全域対象】"
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Emblem_of_Matsusaka%2C_Mie.svg/120px-Emblem_of_Matsusaka%2C_Mie.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Emblem_of_Matsusaka%2C_Mie.svg/120px-Emblem_of_Matsusaka%2C_Mie.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "242055",
+    "id": "mie-kuwana",
+    "pref": "三重県",
+    "city": "桑名市",
+    "area": "東海",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども（18歳未満）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "三重県 聴覚障がい児補聴器購入助成制度",
+        "amount": "購入費用の1/3（片耳上限25,000円、両耳上限50,000円）",
+        "condition": "18歳未満、両耳30dB以上70dB未満、手帳非該当、所得制限なし",
+        "department": "障害福祉課 / 三重県立子ども心身発達医療センター",
+        "officialUrl": "https://www.pref.mie.lg.jp/D1KODOMO/000117786.htm",
+        "notes": "※購入日から3カ月以内に申請が必要です（事前予約・適合確認要）。",
+        "specialNote": "【所得制限・回数制限なし・県全域対象】"
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Emblem_of_Kuwana%2C_Mie.svg/120px-Emblem_of_Kuwana%2C_Mie.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Emblem_of_Kuwana%2C_Mie.svg/120px-Emblem_of_Kuwana%2C_Mie.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "242071",
+    "id": "mie-suzuka",
+    "pref": "三重県",
+    "city": "鈴鹿市",
+    "area": "東海",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども（18歳未満）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "三重県 聴覚障がい児補聴器購入助成制度",
+        "amount": "購入費用の1/3（片耳上限25,000円、両耳上限50,000円）",
+        "condition": "18歳未満、両耳30dB以上70dB未満、手帳非該当、所得制限なし",
+        "department": "障がい福祉課 / 三重県立子ども心身発達医療センター",
+        "officialUrl": "https://www.pref.mie.lg.jp/D1KODOMO/000117786.htm",
+        "notes": "※購入日から3カ月以内に申請が必要です（事前予約・適合確認要）。",
+        "specialNote": "【所得制限・回数制限なし・県全域対象】"
+      },
+      {
+        "target": "senior",
+        "targetLabel": "高齢者・難聴者（50歳以上）",
+        "badgeBg": "#FEF3C7",
+        "badgeColor": "#B45309",
+        "title": "鈴鹿市 軽度・中等度難聴者補聴器購入費助成事業",
+        "amount": "購入費用の1/2（上限22,000円）",
+        "condition": "50歳以上、両耳それぞれ25dB以上、手帳非該当、医師証明要",
+        "department": "長寿社会課",
+        "officialUrl": "https://www.city.suzuka.lg.jp/fukushi/korei/1003206/1015447.html",
+        "notes": "※購入前の事前申請が必須です。医師の証明書が必要です。",
+        "specialNote": "【対象: 50歳以上・25dB以上】"
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Emblem_of_Suzuka%2C_Mie.svg/120px-Emblem_of_Suzuka%2C_Mie.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Emblem_of_Suzuka%2C_Mie.svg/120px-Emblem_of_Suzuka%2C_Mie.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "242080",
+    "id": "mie-nabari",
+    "pref": "三重県",
+    "city": "名張市",
+    "area": "東海",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども（18歳未満）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "三重県 聴覚障がい児補聴器購入助成制度",
+        "amount": "購入費用の1/3（片耳上限25,000円、両耳上限50,000円）",
+        "condition": "18歳未満、両耳30dB以上70dB未満、手帳非該当、所得制限なし",
+        "department": "障害福祉室 / 三重県立子ども心身発達医療センター",
+        "officialUrl": "https://www.pref.mie.lg.jp/D1KODOMO/000117786.htm",
+        "notes": "※購入日から3カ月以内に申請が必要です（事前予約・適合確認要）。",
+        "specialNote": "【所得制限・回数制限なし・県全域対象】"
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Emblem_of_Nabari%2C_Mie.svg/120px-Emblem_of_Nabari%2C_Mie.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Emblem_of_Nabari%2C_Mie.svg/120px-Emblem_of_Nabari%2C_Mie.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "242098",
+    "id": "mie-owase",
+    "pref": "三重県",
+    "city": "尾鷲市",
+    "area": "東海",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども（18歳未満）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "三重県 聴覚障がい児補聴器購入助成制度",
+        "amount": "購入費用の1/3（片耳上限25,000円、両耳上限50,000円）",
+        "condition": "18歳未満、両耳30dB以上70dB未満、手帳非該当、所得制限なし",
+        "department": "福祉保健課 / 三重県立子ども心身発達医療センター",
+        "officialUrl": "https://www.pref.mie.lg.jp/D1KODOMO/000117786.htm",
+        "notes": "※購入日から3カ月以内に申請が必要です（事前予約・適合確認要）。",
+        "specialNote": "【所得制限・回数制限なし・県全域対象】"
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Emblem_of_Owase%2C_Mie.svg/120px-Emblem_of_Owase%2C_Mie.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Emblem_of_Owase%2C_Mie.svg/120px-Emblem_of_Owase%2C_Mie.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "242101",
+    "id": "mie-kameyama",
+    "pref": "三重県",
+    "city": "亀山市",
+    "area": "東海",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども（18歳未満）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "三重県 聴覚障がい児補聴器購入助成制度",
+        "amount": "購入費用の1/3（片耳上限25,000円、両耳上限50,000円）",
+        "condition": "18歳未満、両耳30dB以上70dB未満、手帳非該当、所得制限なし",
+        "department": "障がい福祉課 / 三重県立子ども心身発達医療センター",
+        "officialUrl": "https://www.pref.mie.lg.jp/D1KODOMO/000117786.htm",
+        "notes": "※購入日から3カ月以内に申請が必要です（事前予約・適合確認要）。",
+        "specialNote": "【所得制限・回数制限なし・県全域対象】"
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Emblem_of_Kameyama%2C_Mie.svg/120px-Emblem_of_Kameyama%2C_Mie.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Emblem_of_Kameyama%2C_Mie.svg/120px-Emblem_of_Kameyama%2C_Mie.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "242110",
+    "id": "mie-toba",
+    "pref": "三重県",
+    "city": "鳥羽市",
+    "area": "東海",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども（18歳未満）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "三重県 聴覚障がい児補聴器購入助成制度",
+        "amount": "購入費用の1/3（片耳上限25,000円、両耳上限50,000円）",
+        "condition": "18歳未満、両耳30dB以上70dB未満、手帳非該当、所得制限なし",
+        "department": "健康福祉課 / 三重県立子ども心身発達医療センター",
+        "officialUrl": "https://www.pref.mie.lg.jp/D1KODOMO/000117786.htm",
+        "notes": "※購入日から3カ月以内に申請が必要です（事前予約・適合確認要）。",
+        "specialNote": "【所得制限・回数制限なし・県全域対象】"
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Emblem_of_Toba%2C_Mie.svg/120px-Emblem_of_Toba%2C_Mie.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Emblem_of_Toba%2C_Mie.svg/120px-Emblem_of_Toba%2C_Mie.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "242128",
+    "id": "mie-kumano",
+    "pref": "三重県",
+    "city": "熊野市",
+    "area": "東海",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども（18歳未満）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "三重県 聴覚障がい児補聴器購入助成制度",
+        "amount": "購入費用の1/3（片耳上限25,000円、両耳上限50,000円）",
+        "condition": "18歳未満、両耳30dB以上70dB未満、手帳非該当、所得制限なし",
+        "department": "社会福祉課 / 三重県立子ども心身発達医療センター",
+        "officialUrl": "https://www.pref.mie.lg.jp/D1KODOMO/000117786.htm",
+        "notes": "※購入日から3カ月以内に申請が必要です（事前予約・適合確認要）。",
+        "specialNote": "【所得制限・回数制限なし・県全域対象】"
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Emblem_of_Kumano%2C_Mie.svg/120px-Emblem_of_Kumano%2C_Mie.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Emblem_of_Kumano%2C_Mie.svg/120px-Emblem_of_Kumano%2C_Mie.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "242144",
+    "id": "mie-inabe",
+    "pref": "三重県",
+    "city": "いなべ市",
+    "area": "東海",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども（18歳未満）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "三重県 聴覚障がい児補聴器購入助成制度",
+        "amount": "購入費用の1/3（片耳上限25,000円、両耳上限50,000円）",
+        "condition": "18歳未満、両耳30dB以上70dB未満、手帳非該当、所得制限なし",
+        "department": "障がい福祉課 / 三重県立子ども心身発達医療センター",
+        "officialUrl": "https://www.pref.mie.lg.jp/D1KODOMO/000117786.htm",
+        "notes": "※購入日から3カ月以内に申請が必要です（事前予約・適合確認要）。",
+        "specialNote": "【所得制限・回数制限なし・県全域対象】"
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Emblem_of_Inabe%2C_Mie.svg/120px-Emblem_of_Inabe%2C_Mie.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Emblem_of_Inabe%2C_Mie.svg/120px-Emblem_of_Inabe%2C_Mie.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "242152",
+    "id": "mie-shima",
+    "pref": "三重県",
+    "city": "志摩市",
+    "area": "東海",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども（18歳未満）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "三重県 聴覚障がい児補聴器購入助成制度",
+        "amount": "購入費用の1/3（片耳上限25,000円、両耳上限50,000円）",
+        "condition": "18歳未満、両耳30dB以上70dB未満、手帳非該当、所得制限なし",
+        "department": "地域福祉課 / 三重県立子ども心身発達医療センター",
+        "officialUrl": "https://www.pref.mie.lg.jp/D1KODOMO/000117786.htm",
+        "notes": "※購入日から3カ月以内に申請が必要です（事前予約・適合確認要）。",
+        "specialNote": "【所得制限・回数制限なし・県全域対象】"
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Emblem_of_Shima%2C_Mie.svg/120px-Emblem_of_Shima%2C_Mie.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Emblem_of_Shima%2C_Mie.svg/120px-Emblem_of_Shima%2C_Mie.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "242161",
+    "id": "mie-iga",
+    "pref": "三重県",
+    "city": "伊賀市",
+    "area": "東海",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども（18歳未満）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "三重県 聴覚障がい児補聴器購入助成制度",
+        "amount": "購入費用の1/3（片耳上限25,000円、両耳上限50,000円）",
+        "condition": "18歳未満、両耳30dB以上70dB未満、手帳非該当、所得制限なし",
+        "department": "障がい福祉課 / 三重県立子ども心身発達医療センター",
+        "officialUrl": "https://www.pref.mie.lg.jp/D1KODOMO/000117786.htm",
+        "notes": "※購入日から3カ月以内に申請が必要です（事前予約・適合確認要）。",
+        "specialNote": "【所得制限・回数制限なし・県全域対象】"
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Emblem_of_Iga%2C_Mie.svg/120px-Emblem_of_Iga%2C_Mie.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Emblem_of_Iga%2C_Mie.svg/120px-Emblem_of_Iga%2C_Mie.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
     "cityCode": "252018",
     "id": "shiga-otsu",
     "pref": "滋賀県",
@@ -14795,6 +15499,43 @@ const subsidyData = [
     ],
     "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Emblem_of_Hikone%2C_Shiga.svg/120px-Emblem_of_Hikone%2C_Shiga.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Emblem_of_Hikone%2C_Shiga.svg/120px-Emblem_of_Hikone%2C_Shiga.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "252034",
+    "id": "shiga-nagahama",
+    "pref": "滋賀県",
+    "city": "長浜市",
+    "area": "近畿",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども（18歳未満）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "長浜市 軽度・中等度難聴児補聴器購入費等助成事業",
+        "amount": "基準額等の2/3助成（市民税非課税世帯等は全額助成）",
+        "condition": "18歳未満、両耳30dB以上70dB未満、手帳非該当、指定医意見書",
+        "department": "障害福祉課",
+        "officialUrl": "https://www.city.nagahama.lg.jp/0000011787.html",
+        "notes": "※購入前の事前申請が必須です。指定医師の意見書が必要です。",
+        "specialNote": ""
+      },
+      {
+        "target": "senior",
+        "targetLabel": "高齢者（65歳以上）",
+        "badgeBg": "#FEF3C7",
+        "badgeColor": "#B45309",
+        "title": "長浜市 高齢者補聴器購入費助成事業",
+        "amount": "購入費用の1/2（上限40,000円）",
+        "condition": "65歳以上、市民税非課税世帯、手帳非該当、耳鼻咽喉科医師意見書要",
+        "department": "高齢福祉介護課",
+        "officialUrl": "https://www.city.nagahama.lg.jp/0000012677.html",
+        "notes": "※購入前の事前申請が必須です。医師の意見書が必要です。",
+        "specialNote": "【上限4万円・購入前申請必須】"
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Emblem_of_Nagahama%2C_Shiga.svg/120px-Emblem_of_Nagahama%2C_Shiga.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Emblem_of_Nagahama%2C_Shiga.svg/120px-Emblem_of_Nagahama%2C_Shiga.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "252042",
@@ -14895,6 +15636,200 @@ const subsidyData = [
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Emblem_of_Moriyama%2C_Shiga.svg/120px-Emblem_of_Moriyama%2C_Shiga.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
+    "cityCode": "252085",
+    "id": "shiga-ritto",
+    "pref": "滋賀県",
+    "city": "栗東市",
+    "area": "近畿",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども（18歳未満）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "栗東市 軽度・中等度難聴児補聴器購入費等助成事業",
+        "amount": "基準額等の2/3助成（市民税非課税世帯等は全額助成）",
+        "condition": "18歳未満、両耳30dB以上70dB未満、手帳非該当、指定医意見書",
+        "department": "障がい福祉課",
+        "officialUrl": "https://www.city.ritto.lg.jp/soshiki/kenkofukushi/syogaifukushi/oshirase/3043.html",
+        "notes": "※購入前の事前申請が必須です。指定医の意見書が必要です。",
+        "specialNote": ""
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Emblem_of_Ritt%C5%8D%2C_Shiga.svg/120px-Emblem_of_Ritt%C5%8D%2C_Shiga.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Emblem_of_Ritt%C5%8D%2C_Shiga.svg/120px-Emblem_of_Ritt%C5%8D%2C_Shiga.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "252093",
+    "id": "shiga-koka",
+    "pref": "滋賀県",
+    "city": "甲賀市",
+    "area": "近畿",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども・若者（18歳未満・就労者）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "甲賀市 軽度・中等度難聴児等補聴器購入費等助成事業",
+        "amount": "基準額等の2/3助成（市民税非課税世帯等は全額助成）",
+        "condition": "18歳未満（過去交付者は25歳未満の就労・就学者も対象）、両耳30dB以上70dB未満、手帳非該当",
+        "department": "障がい福祉課",
+        "officialUrl": "https://www.city.koka.lg.jp/15999.htm",
+        "notes": "※購入前の事前申請が必須です。指定医師の意見書が必要です。",
+        "specialNote": "【18〜24歳の就労・就学者も市独自で対象】"
+      },
+      {
+        "target": "senior",
+        "targetLabel": "高齢者（65歳以上）",
+        "badgeBg": "#FEF3C7",
+        "badgeColor": "#B45309",
+        "title": "甲賀市 高齢者補聴器購入補助金交付事業",
+        "amount": "購入費用の1/2（上限20,000円）",
+        "condition": "65歳以上、市民税非課税世帯、手帳非該当、耳鼻咽喉科医師意見書要",
+        "department": "高齢福祉課 高齢支援係",
+        "officialUrl": "https://www.city.koka.lg.jp/23975.htm",
+        "notes": "※購入前の事前申請が必須です。医師の意見書が必要です。",
+        "specialNote": "【上限2万円・購入前申請必須】"
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Emblem_of_K%C5%8Dka%2C_Shiga.svg/120px-Emblem_of_K%C5%8Dka%2C_Shiga.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Emblem_of_K%C5%8Dka%2C_Shiga.svg/120px-Emblem_of_K%C5%8Dka%2C_Shiga.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "252107",
+    "id": "shiga-yasu",
+    "pref": "滋賀県",
+    "city": "野洲市",
+    "area": "近畿",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども（18歳未満）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "野洲市 軽度・中等度難聴児補聴器購入費等助成事業",
+        "amount": "基準額等の2/3助成（市民税非課税世帯等は全額助成）",
+        "condition": "18歳未満、両耳30dB以上70dB未満、手帳非該当、指定医意見書",
+        "department": "障がい福祉課",
+        "officialUrl": "https://www.city.yasu.lg.jp/section/reiki_int/reiki_honbun/r042RG00001268.html",
+        "notes": "※購入前の事前申請が必須です。指定医の受診・意見書が必要です。",
+        "specialNote": ""
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Emblem_of_Yasu%2C_Shiga.svg/120px-Emblem_of_Yasu%2C_Shiga.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Emblem_of_Yasu%2C_Shiga.svg/120px-Emblem_of_Yasu%2C_Shiga.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "252115",
+    "id": "shiga-konan",
+    "pref": "滋賀県",
+    "city": "湖南市",
+    "area": "近畿",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども（18歳未満）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "湖南市 軽度・中等度難聴児補聴器購入費等助成事業",
+        "amount": "基準額等の2/3助成（市民税非課税世帯等は全額助成）",
+        "condition": "18歳未満、両耳30dB以上70dB未満、手帳非該当、指定医意見書",
+        "department": "障がい福祉課",
+        "officialUrl": "https://www.city.shiga-konan.lg.jp/section/reiki_int/reiki_honbun/r041RG00001201.html",
+        "notes": "※購入前の事前申請が必須です。指定医の意見書が必要です。",
+        "specialNote": ""
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Emblem_of_Konan%2C_Shiga.svg/120px-Emblem_of_Konan%2C_Shiga.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Emblem_of_Konan%2C_Shiga.svg/120px-Emblem_of_Konan%2C_Shiga.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "252123",
+    "id": "shiga-takashima",
+    "pref": "滋賀県",
+    "city": "高島市",
+    "area": "近畿",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども（18歳未満）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "高島市 軽度・中等度難聴児補聴器購入費等助成事業",
+        "amount": "基準額等の2/3助成（市民税非課税世帯等は全額助成）",
+        "condition": "18歳未満、両耳30dB以上70dB未満、手帳非該当、指定医意見書",
+        "department": "障がい福祉課",
+        "officialUrl": "https://www.city.takashima.lg.jp/section/reiki_int/reiki_honbun/r152RG00001894.html",
+        "notes": "※購入前の事前申請が必須です。指定医師の意見書が必要です。",
+        "specialNote": ""
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Emblem_of_Takashima%2C_Shiga.svg/120px-Emblem_of_Takashima%2C_Shiga.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Emblem_of_Takashima%2C_Shiga.svg/120px-Emblem_of_Takashima%2C_Shiga.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "252131",
+    "id": "shiga-higashiomi",
+    "pref": "滋賀県",
+    "city": "東近江市",
+    "area": "近畿",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども（18歳未満）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "東近江市 軽度・中等度難聴児補聴器購入費等助成事業",
+        "amount": "基準額等の2/3助成（市民税非課税世帯等は全額助成）",
+        "condition": "18歳未満、両耳30dB以上70dB未満、手帳非該当、指定医意見書",
+        "department": "障害福祉課",
+        "officialUrl": "https://www2.city.higashiomi.shiga.jp/reiki_int/reiki_honbun/r151RG00001542.html",
+        "notes": "※購入前の事前申請が必須です。指定医の受診・意見書が必要です。",
+        "specialNote": ""
+      },
+      {
+        "target": "senior",
+        "targetLabel": "高齢者（65歳以上）",
+        "badgeBg": "#FEF3C7",
+        "badgeColor": "#B45309",
+        "title": "東近江市 高齢者補聴器購入費助成事業",
+        "amount": "補聴器本体購入費（上限20,000円）",
+        "condition": "65歳以上、両耳40dB以上70dB未満、手帳非該当、医師意見書要",
+        "department": "長寿福祉課",
+        "officialUrl": "https://www.city.higashiomi.shiga.jp/kennkou_iryou_fukushi/hukushi/1002949/1002957/1002961.html",
+        "notes": "※購入前の事前申請が必須です。医師の証明書が必要です。",
+        "specialNote": "【上限2万円・購入前申請必須】"
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem_of_Higashi%C5%8Dmi%2C_Shiga.svg/120px-Emblem_of_Higashi%C5%8Dmi%2C_Shiga.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem_of_Higashi%C5%8Dmi%2C_Shiga.svg/120px-Emblem_of_Higashi%C5%8Dmi%2C_Shiga.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "252140",
+    "id": "shiga-maibara",
+    "pref": "滋賀県",
+    "city": "米原市",
+    "area": "近畿",
+    "programs": [
+      {
+        "target": "child",
+        "targetLabel": "子ども（18歳未満）",
+        "badgeBg": "#DCFCE7",
+        "badgeColor": "#15803D",
+        "title": "米原市 軽度・中等度難聴児補聴器購入費等助成事業",
+        "amount": "基準額等の2/3助成（市民税非課税世帯等は全額助成）",
+        "condition": "18歳未満、両耳30dB以上70dB未満、手帳非該当、指定医意見書",
+        "department": "障がい福祉課",
+        "officialUrl": "https://www.city.maibara.lg.jp/soshiki/kenko_fukushi/syogai/shougai_fukushi/20558.html",
+        "notes": "※購入前の事前申請が必須です。指定医師の意見書が必要です。",
+        "specialNote": ""
+      }
+    ],
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Emblem_of_Maibara%2C_Shiga.svg/120px-Emblem_of_Maibara%2C_Shiga.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Emblem_of_Maibara%2C_Shiga.svg/120px-Emblem_of_Maibara%2C_Shiga.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
     "cityCode": "261009",
     "id": "kyoto-kyoto",
     "pref": "京都府",
@@ -14913,10 +15848,80 @@ const subsidyData = [
         "officialUrl": "https://www.city.kyoto.lg.jp/hagukumi/page/0000254466.html",
         "notes": "※事前申請必須です。各区役所保健福祉センターが窓口です。",
         "specialNote": ""
+      },
+      {
+        "target": "senior",
+        "title": "京都市聞こえの応援事業（高齢者補聴器購入費助成）",
+        "amount": "購入費用の1/2（上限30,000円）",
+        "condition": "満65歳以上で身体障害者手帳の対象外、加齢性難聴講座の受講、協力医療機関での必要性判断、対象販売店での購入・調整、運動教室等への参加などの要件を満たす方（1人1回限り）",
+        "department": "京都市保健福祉局 健康長寿のまち・京都推進室 健康長寿企画課",
+        "officialUrl": "https://www.city.kyoto.lg.jp/hokenfukushi/page/0000355804.html"
       }
     ],
     "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Emblem_of_Kyoto%2C_Kyoto.svg/120px-Emblem_of_Kyoto%2C_Kyoto.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Emblem_of_Kyoto%2C_Kyoto.svg/120px-Emblem_of_Kyoto%2C_Kyoto.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "262013",
+    "id": "fukuchiyama-kyoto",
+    "pref": "京都府",
+    "city": "福知山市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Emblem_of_Fukuchiyama%2C_Kyoto.svg/120px-Emblem_of_Fukuchiyama%2C_Kyoto.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "福知山市難聴児補聴器購入費等助成事業",
+        "amount": "基準額または購入・修理費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "市内に在住する18歳未満で身体障害者手帳の対象外かつ指定医に補聴器の必要性を認められた軽度・中等度難聴児（所得制限あり）",
+        "department": "福知山市役所 障害者福祉課",
+        "officialUrl": "https://www.city.fukuchiyama.lg.jp/soshiki/14/85553.html"
+      },
+      {
+        "target": "senior",
+        "title": "福知山市高齢者補聴器購入費助成事業",
+        "amount": "購入費用の1/2（上限20,000円、1人1回限り）",
+        "condition": "市内に在住する65歳以上で身体障害者手帳の対象外、両耳の聴力レベルが40dB以上70dB未満（または一側耳で医師が必要と認めた方）、市税滞納のない方（※必ず購入前申請が必要）",
+        "department": "福知山市役所 高齢者福祉課",
+        "officialUrl": "https://www.city.fukuchiyama.lg.jp/soshiki/15/84653.html"
+      }
+    ]
+  },
+  {
+    "cityCode": "262021",
+    "id": "maizuru-kyoto",
+    "pref": "京都府",
+    "city": "舞鶴市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Emblem_of_Maizuru%2C_Kyoto.svg/120px-Emblem_of_Maizuru%2C_Kyoto.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "舞鶴市軽・中等度難聴児支援事業補助金",
+        "amount": "基準額または購入・修理費用の2/3（生活保護・市民税非課税世帯は基準額の10/10）",
+        "condition": "市内に在住する18歳未満（年度末まで）で身体障害者手帳の対象外、両耳の聴力レベルが原則30dB以上70dB未満で医師が装用の必要を認めた児童（所得制限あり）",
+        "department": "舞鶴市役所 福祉部 障害福祉・国民年金課",
+        "officialUrl": "https://www.city.maizuru.kyoto.jp/soshiki/11-5-0-0-0_1.html"
+      }
+    ]
+  },
+  {
+    "cityCode": "262030",
+    "id": "ayabe-kyoto",
+    "pref": "京都府",
+    "city": "綾部市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Emblem_of_Ayabe%2C_Kyoto.svg/120px-Emblem_of_Ayabe%2C_Kyoto.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "綾部市軽・中等度難聴児支援事業（難聴児補聴器購入費等助成）",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は10/10全額）",
+        "condition": "市内に在住する18歳未満（最初の3月31日まで）で身体障害者手帳の対象外、両耳の聴力レベルが原則30dB以上70dB未満で指定医により装用が必要と認められた児童（所得制限あり）",
+        "department": "綾部市役所 福祉部 障害者支援課",
+        "officialUrl": "https://www.city.ayabe.lg.jp/cmsfiles/contents/0000001/1592/202601.pdf"
+      }
+    ]
   },
   {
     "cityCode": "262048",
@@ -14941,6 +15946,24 @@ const subsidyData = [
     ],
     "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Emblem_of_Uji%2C_Kyoto.svg/120px-Emblem_of_Uji%2C_Kyoto.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Emblem_of_Uji%2C_Kyoto.svg/120px-Emblem_of_Uji%2C_Kyoto.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "262056",
+    "id": "miyazu-kyoto",
+    "pref": "京都府",
+    "city": "宮津市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Emblem_of_Miyazu%2C_Kyoto.svg/120px-Emblem_of_Miyazu%2C_Kyoto.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "宮津市難聴児補聴器購入費等補助金",
+        "amount": "基準額または購入・修理費用の少ない方の9割（9/10）",
+        "condition": "市内に在住する18歳未満で身体障害者手帳の対象外、両耳の聴力レベルが30dB以上70dB未満で医師が装用効果を認めた児童（市町村民税所得割46万円以上の世帯は除く）",
+        "department": "宮津市役所 社会福祉課 障害福祉係",
+        "officialUrl": "https://www.city.miyazu.kyoto.jp/soshiki/7/2252.html"
+      }
+    ]
   },
   {
     "cityCode": "262064",
@@ -14980,6 +16003,42 @@ const subsidyData = [
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Emblem_of_Kameoka%2C_Kyoto.svg/120px-Emblem_of_Kameoka%2C_Kyoto.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
+    "cityCode": "262072",
+    "id": "joyo-kyoto",
+    "pref": "京都府",
+    "city": "城陽市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Emblem_of_Joyo%2C_Kyoto.svg/120px-Emblem_of_Joyo%2C_Kyoto.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "城陽市難聴児補聴器購入費等助成事業",
+        "amount": "基準額または購入・修理費用の少ない方の2/3（所得制限世帯は1/2）",
+        "condition": "市内に在住する18歳未満（年度末まで）で身体障害者手帳の対象外、両耳の聴力レベルがおおむね30dB以上70dB未満等で医師が必要と認めた児童",
+        "department": "城陽市役所 福祉保健部 障がい支援課",
+        "officialUrl": "https://www.city.joyo.kyoto.jp/0000001891.html"
+      }
+    ]
+  },
+  {
+    "cityCode": "262081",
+    "id": "muko-kyoto",
+    "pref": "京都府",
+    "city": "向日市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Emblem_of_Muk%C5%8D%2C_Kyoto.svg/120px-Emblem_of_Muk%C5%8D%2C_Kyoto.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "向日市軽・中等度難聴児支援事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は10/10全額）",
+        "condition": "市内に在住する18歳未満（最初の3月31日まで）で身体障害者手帳の対象外、医師が装用により一定の効果を期待できると判断した児童（所得制限あり）",
+        "department": "向日市役所 健康福祉部 障がい福祉課",
+        "officialUrl": "https://www.city.muko.kyoto.jp/section/reiki_int/reiki_honbun/k110RG00000769.html"
+      }
+    ]
+  },
+  {
     "cityCode": "262099",
     "id": "kyoto-nagaokakyo",
     "pref": "京都府",
@@ -15000,7 +16059,25 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": ""
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Emblem_of_Nagaokaky%C5%8D%2C_Kyoto.svg/120px-Emblem_of_Nagaokaky%C5%8D%2C_Kyoto.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "262102",
+    "id": "yawata-kyoto",
+    "pref": "京都府",
+    "city": "八幡市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Emblem_of_Yawata%2C_Kyoto.svg/120px-Emblem_of_Yawata%2C_Kyoto.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "八幡市軽・中等度難聴児補聴器購入費等助成事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "市内に在住する18歳未満で身体障害者手帳の対象外、両耳の聴力レベルが30dB以上70dB未満で医師が装用効果を認めた児童（市民税所得割46万円以上の世帯は除く）",
+        "department": "八幡市役所 福祉事務所 障がい福祉課",
+        "officialUrl": "https://www.city.yawata.kyoto.jp/0000002447.html"
+      }
+    ]
   },
   {
     "cityCode": "262111",
@@ -15036,7 +16113,51 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": ""
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Emblem_of_Ky%C5%8Dtanabe%2C_Kyoto.svg/120px-Emblem_of_Ky%C5%8Dtanabe%2C_Kyoto.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "262129",
+    "id": "kyotango-kyoto",
+    "pref": "京都府",
+    "city": "京丹後市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Emblem_of_Ky%C5%8Dtango%2C_Kyoto.svg/120px-Emblem_of_Ky%C5%8Dtango%2C_Kyoto.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "京丹後市軽・中等度難聴児補聴器購入費等助成事業",
+        "amount": "基準額または購入・修理費用の2/3（生活保護・市町村民税非課税世帯は10/10全額）",
+        "condition": "市内に在住する18歳未満（年度末まで）で身体障害者手帳の対象外、両耳の聴力レベルが概ね30dB以上70dB未満で医師が必要と認めた児童（所得制限あり）",
+        "department": "京丹後市役所 健康長寿福祉部 障害者福祉課",
+        "officialUrl": "https://www.city.kyotango.lg.jp/top/soshiki/kenkochoju/shogaishafukushi/index.html"
+      },
+      {
+        "target": "senior",
+        "title": "京丹後市難聴高齢者補聴器購入費助成事業",
+        "amount": "購入費用の1/2（上限20,000円、1人1回限り）",
+        "condition": "市内に在住する満65歳以上で身体障害者手帳の対象外、両耳の平均聴力レベルが40dB以上70dB未満、市町村民税非課税世帯または生活保護世帯の方（※必ず購入前申請が必要）",
+        "department": "京丹後市役所 健康長寿福祉部 障害者福祉課",
+        "officialUrl": "https://www.city.kyotango.lg.jp/top/soshiki/kenkochoju/shogaishafukushi/2/joseiseido/18707.html"
+      }
+    ]
+  },
+  {
+    "cityCode": "262137",
+    "id": "nantan-kyoto",
+    "pref": "京都府",
+    "city": "南丹市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Emblem_of_Nantan%2C_Kyoto.svg/120px-Emblem_of_Nantan%2C_Kyoto.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "南丹市軽・中等度難聴児支援事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額）",
+        "condition": "市内に在住する18歳未満で身体障害者手帳の対象外、両耳の聴力レベルがおおむね30dB以上70dB未満で医師が必要と認めた児童（所得制限あり）",
+        "department": "南丹市役所 社会福祉課 障害者福祉係",
+        "officialUrl": "https://www.city.nantan.kyoto.jp/www/life/109/004/000/index_21628.html"
+      }
+    ]
   },
   {
     "cityCode": "262145",
@@ -15185,6 +16306,24 @@ const subsidyData = [
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Emblem_of_Toyonaka%2C_Osaka.svg/120px-Emblem_of_Toyonaka%2C_Osaka.svg.png"
   },
   {
+    "cityCode": "272043",
+    "id": "ikeda-osaka",
+    "pref": "大阪府",
+    "city": "池田市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Emblem_of_Ikeda%2C_Osaka.svg/120px-Emblem_of_Ikeda%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "池田市軽度難聴児補聴器購入費用等助成事業",
+        "amount": "基準額または購入・修理費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "市内に在住する18歳未満で身体障害者手帳の対象外、両耳の聴力レベルが原則30dB以上で医師が装用効果を認めた児童（所得制限あり）",
+        "department": "池田市役所 福祉部 障がい福祉課",
+        "officialUrl": "https://www.city.ikeda.osaka.jp/soshiki/fukushi/shogaifukushi/shogaisha/18375.html"
+      }
+    ]
+  },
+  {
     "cityCode": "272051",
     "id": "osaka-suita",
     "pref": "大阪府",
@@ -15207,6 +16346,32 @@ const subsidyData = [
     ],
     "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Emblem_of_Suita%2C_Osaka.svg/120px-Emblem_of_Suita%2C_Osaka.svg.png",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Emblem_of_Suita%2C_Osaka.svg/120px-Emblem_of_Suita%2C_Osaka.svg.png"
+  },
+  {
+    "cityCode": "272060",
+    "id": "izumiotsu-osaka",
+    "pref": "大阪府",
+    "city": "泉大津市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Emblem_of_Izumi%C5%8Dtsu%2C_Osaka.svg/120px-Emblem_of_Izumi%C5%8Dtsu%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "泉大津市軽度・中等度難聴児補聴器購入費助成事業",
+        "amount": "基準額または購入・修理費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "市内に在住する18歳未満で身体障害者手帳の対象外、両耳の聴力レベルが原則30dB以上で医師が必要と認めた児童（所得制限あり）",
+        "department": "泉大津市役所 障がい福祉課",
+        "officialUrl": "https://www.city.izumiotsu.lg.jp/kakuka/fukushi/shogaifukushi/service/8670.html"
+      },
+      {
+        "target": "senior",
+        "title": "泉大津市高齢者等補聴器購入費用助成事業",
+        "amount": "購入費用の1/2（生活保護・非課税世帯：上限50,000円、課税世帯：購入費の1/4・上限25,000円）",
+        "condition": "市内に在住する満50歳以上で身体障害者手帳の対象外、両耳の聴力レベルがそれぞれ40dB以上で医師が必要と認めた方（1人1回限り、事前申請必須）",
+        "department": "泉大津市役所 高齢介護課",
+        "officialUrl": "https://www.city.izumiotsu.lg.jp/kakuka/fukushi/koreikaigo/gyoumunogoannai/koureisyafukushisabisu/10536.html"
+      }
+    ]
   },
   {
     "cityCode": "272078",
@@ -15244,6 +16409,32 @@ const subsidyData = [
     ],
     "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Emblem_of_Takatsuki%2C_Osaka.svg/120px-Emblem_of_Takatsuki%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Emblem_of_Takatsuki%2C_Osaka.svg/120px-Emblem_of_Takatsuki%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "272086",
+    "id": "kaizuka-osaka",
+    "pref": "大阪府",
+    "city": "貝塚市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Emblem_of_Kaizuka%2C_Osaka.svg/120px-Emblem_of_Kaizuka%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "貝塚市軽度難聴児補聴器購入費等助成事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "市内に在住する18歳未満で身体障害者手帳の対象外、両耳の聴力レベルが原則30dB以上で医師が必要と認めた児童（所得制限あり）",
+        "department": "貝塚市役所 健康福祉部 障害福祉課",
+        "officialUrl": "https://www.city.kaizuka.lg.jp/kakuka/kenkohukushi/shogaifukushi/menu/teatejosei/keidonantyoujihotyoukikounyuujosei.html"
+      },
+      {
+        "target": "senior",
+        "title": "貝塚市高齢者補聴器購入費用助成事業",
+        "amount": "購入費用の1/2（上限25,000円、1人1回限り）",
+        "condition": "市内に在住する65歳以上で市民税非課税世帯（または生活保護受給）、身体障害者手帳の対象外、医師が補聴器を必要と認めた初めて購入する方（事前申請必須）",
+        "department": "貝塚市役所 高齢介護課",
+        "officialUrl": "https://www.city.kaizuka.lg.jp/kakuka/kenkohukushi/koreikaigo/menu/hukushi/hotyoukijosei.html"
+      }
+    ]
   },
   {
     "cityCode": "272094",
@@ -15381,6 +16572,58 @@ const subsidyData = [
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Emblem_of_Yao%2C_Osaka.svg/120px-Emblem_of_Yao%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
+    "cityCode": "272132",
+    "id": "izumisano-osaka",
+    "pref": "大阪府",
+    "city": "泉佐野市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Emblem_of_Izumisano%2C_Osaka.svg/120px-Emblem_of_Izumisano%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "泉佐野市難聴児補聴器交付事業",
+        "amount": "基準額または費用の2/3（生活保護・非課税世帯は全額助成）",
+        "condition": "市内に在住する18歳未満で身体障害者手帳の対象外、両耳の聴力レベルが30dB以上で医師が装用効果を認めた児童",
+        "department": "泉佐野市役所 健康福祉部 地域共生推進課（障害福祉担当）",
+        "officialUrl": "https://www.city.izumisano.lg.jp/kakuka/kenkou/shogai/menu/syogai_fukushi/1487898755878.html"
+      },
+      {
+        "target": "senior",
+        "title": "泉佐野市高齢者補聴器購入費助成金",
+        "amount": "購入費用の1/2（上限50,000円、1人1回限り）",
+        "condition": "市内に在住する65歳以上で住民税非課税世帯、身体障害者手帳の対象外、両耳の聴力レベルが40dB以上70dB未満または医師が必要と認めた方（事前申請必須）",
+        "department": "泉佐野市役所 地域共生推進課",
+        "officialUrl": "https://www.city.izumisano.lg.jp/kakuka/kenkou/shogai/menu/kourei_fukusi/13091.html"
+      }
+    ]
+  },
+  {
+    "cityCode": "272141",
+    "id": "tondabayashi-osaka",
+    "pref": "大阪府",
+    "city": "富田林市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Emblem_of_Tondabayashi%2C_Osaka.svg/120px-Emblem_of_Tondabayashi%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "富田林市軽度難聴児補聴器購入等助成事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "市内に在住する18歳未満で身体障害者手帳の対象外、両耳の聴力レベルが30dB以上で医師が必要と認めた児童（所得制限あり）",
+        "department": "富田林市役所 障がい福祉課",
+        "officialUrl": "https://www.city.tondabayashi.lg.jp/soshiki/23/1562.html"
+      },
+      {
+        "target": "senior",
+        "title": "富田林市高齢者補聴器購入費助成事業",
+        "amount": "左右いずれか1台分（上限25,000円、生涯1回限り）",
+        "condition": "市内に在住する65歳以上で世帯全員が市町村民税非課税（または生活保護）、身体障害者手帳の対象外、医師が補聴器を必要と認めた方（事前申請必須）",
+        "department": "富田林市役所 高齢介護課",
+        "officialUrl": "https://www.city.tondabayashi.lg.jp/soshiki/26/95339.html"
+      }
+    ]
+  },
+  {
     "cityCode": "272159",
     "id": "osaka-neyagawa",
     "pref": "大阪府",
@@ -15403,6 +16646,76 @@ const subsidyData = [
     ],
     "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Emblem_of_Neyagawa%2C_Osaka.svg/120px-Emblem_of_Neyagawa%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Emblem_of_Neyagawa%2C_Osaka.svg/120px-Emblem_of_Neyagawa%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "272167",
+    "id": "kawachinagano-osaka",
+    "pref": "大阪府",
+    "city": "河内長野市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Emblem_of_Kawachinagano%2C_Osaka.svg/120px-Emblem_of_Kawachinagano%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "河内長野市軽度難聴児補聴器購入費等助成事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "市内に在住する18歳未満で身体障害者手帳の対象外、医師により補聴器装用が必要と認められた児童（所得制限あり）",
+        "department": "河内長野市役所 障がい福祉課",
+        "officialUrl": "https://www.city.kawachinagano.lg.jp/static/reiki/reiki_honbun/l700RG00001544.html"
+      },
+      {
+        "target": "senior",
+        "title": "河内長野市高齢者難聴補聴器購入費助成事業",
+        "amount": "助成対象経費の半額（上限25,000円、初めて受ける方のみ）",
+        "condition": "市内に在住する65歳以上で住民税非課税世帯または生活保護世帯、身体障害者手帳の対象外、両耳40dB以上70dB未満等で医師が必要と認めた方（事前申請必須）",
+        "department": "河内長野市役所 地域福祉高齢課",
+        "officialUrl": "https://www.city.kawachinagano.lg.jp/soshiki/4/97110.html"
+      }
+    ]
+  },
+  {
+    "cityCode": "272175",
+    "id": "matsubara-osaka",
+    "pref": "大阪府",
+    "city": "松原市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Emblem_of_Matsubara%2C_Osaka.svg/120px-Emblem_of_Matsubara%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "松原市軽度難聴児補聴器購入費・修理費助成事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "市内に在住する18歳未満で身体障害者手帳の対象外、両耳の聴力レベルが30dB以上で医師が必要と認めた児童（所得制限あり）",
+        "department": "松原市役所 福祉部 障害福祉課",
+        "officialUrl": "https://www.city.matsubara.lg.jp/docs/page18150.html"
+      },
+      {
+        "target": "senior",
+        "title": "松原市補聴器購入費支援事業",
+        "amount": "購入費用の1/2（非課税世帯：上限25,000円、課税世帯：上限10,000円、1人1回限り）",
+        "condition": "市内に在住する満50歳以上で身体障害者手帳の対象外、両耳の聴力レベルがそれぞれ40dB以上で医師が必要と認めた方（事前申請必須）",
+        "department": "松原市役所 健康部 高齢介護課",
+        "officialUrl": "https://www.city.matsubara.lg.jp/docs/1307073.html"
+      }
+    ]
+  },
+  {
+    "cityCode": "272183",
+    "id": "daito-osaka",
+    "pref": "大阪府",
+    "city": "大東市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Emblem_of_Dait%C5%8D%2C_Osaka.svg/120px-Emblem_of_Dait%C5%8D%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "大東市軽度難聴児補聴器購入等助成事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "市内に在住する18歳未満で身体障害者手帳の対象外、両耳の聴力レベルが30dB以上で医師が必要と認めた児童（所得制限あり）",
+        "department": "大東市役所 福祉・子ども部 障害福祉課",
+        "officialUrl": "https://www.city.daito.lg.jp/soshiki/22/1205.html"
+      }
+    ]
   },
   {
     "cityCode": "272191",
@@ -15429,6 +16742,76 @@ const subsidyData = [
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Emblem_of_Izumi%2C_Osaka.svg/120px-Emblem_of_Izumi%2C_Osaka.svg.png"
   },
   {
+    "cityCode": "272205",
+    "id": "minoh-osaka",
+    "pref": "大阪府",
+    "city": "箕面市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Emblem_of_Minoh%2C_Osaka.svg/120px-Emblem_of_Minoh%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "箕面市軽度難聴児補聴器購入等助成事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "市内に在住する18歳未満で身体障害者手帳の対象外、両耳の聴力レベルが概ね30dB以上で医師が必要と認めた児童（所得制限あり）",
+        "department": "箕面市役所 健康福祉部 障害福祉課",
+        "officialUrl": "https://www.city.minoh.lg.jp/siminservice/hojokinitiran.html"
+      }
+    ]
+  },
+  {
+    "cityCode": "272213",
+    "id": "kashiwara-osaka",
+    "pref": "大阪府",
+    "city": "柏原市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Emblem_of_Kashiwara%2C_Osaka.svg/120px-Emblem_of_Kashiwara%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "柏原市難聴児補聴器等助成事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "市内に在住する18歳未満で身体障害者手帳の対象外、両耳の聴力レベルがおおむね30dB以上で医師が必要と認めた児童（所得制限あり）",
+        "department": "柏原市役所 福祉こども部 障害福祉課",
+        "officialUrl": "https://www.city.kashiwara.lg.jp/docs/2019032200010/"
+      },
+      {
+        "target": "senior",
+        "title": "柏原市高齢者補聴器購入費用助成事業",
+        "amount": "補聴器本体1台分（上限25,000円、1人1回限り）",
+        "condition": "市内に在住する65歳以上で市民税非課税世帯、身体障害者手帳の対象外、指定医（補聴器相談医）から補聴器が必要と判断された方（事前申請必須）",
+        "department": "柏原市役所 高齢介護課",
+        "officialUrl": "https://www.city.kashiwara.lg.jp/docs/2024032900051/"
+      }
+    ]
+  },
+  {
+    "cityCode": "272221",
+    "id": "habikino-osaka",
+    "pref": "大阪府",
+    "city": "羽曳野市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Emblem_of_Habikino%2C_Osaka.svg/120px-Emblem_of_Habikino%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "羽曳野市軽度難聴児補聴器購入費等助成事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成、医師意見書料上限5,000円助成あり）",
+        "condition": "市内に在住する18歳未満で身体障害者手帳の対象外、両耳の聴力レベルが原則30dB以上で医師が必要と認めた児童（所得制限あり）",
+        "department": "羽曳野市役所 保健福祉部 障害福祉課",
+        "officialUrl": "https://www.city.habikino.lg.jp/material/files/group/90/2404all.pdf"
+      },
+      {
+        "target": "senior",
+        "title": "羽曳野市高齢者補聴器購入費助成事業",
+        "amount": "左右いずれか1台分の購入費用（上限25,000円、1人1回限り）",
+        "condition": "市内に在住する65歳以上で市民税非課税世帯または生活保護世帯、身体障害者手帳の対象外、補聴器相談医から補聴器が必要と判断された方（事前申請必須）",
+        "department": "羽曳野市役所 保健福祉部 地域包括ケア推進課",
+        "officialUrl": "https://www.city.habikino.lg.jp/soshiki/hokenfukushi/tiikihoukatsu/16996.html"
+      }
+    ]
+  },
+  {
     "cityCode": "272230",
     "id": "osaka-kadoma",
     "pref": "大阪府",
@@ -15451,6 +16834,60 @@ const subsidyData = [
     ],
     "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Emblem_of_Kadoma%2C_Osaka.svg/120px-Emblem_of_Kadoma%2C_Osaka.svg.png",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Emblem_of_Kadoma%2C_Osaka.svg/120px-Emblem_of_Kadoma%2C_Osaka.svg.png"
+  },
+  {
+    "cityCode": "272248",
+    "id": "settsu-osaka",
+    "pref": "大阪府",
+    "city": "摂津市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Emblem_of_Settsu%2C_Osaka.svg/120px-Emblem_of_Settsu%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "摂津市軽度難聴児補聴器購入費等助成事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "市内に在住する18歳未満で身体障害者手帳の対象外、両耳の聴力レベルが原則30dB以上で医師が必要と認めた児童（所得制限あり）",
+        "department": "摂津市役所 保健福祉部 障がい福祉課",
+        "officialUrl": "https://www.city.settsu.osaka.jp/soshiki/hokenfukushibu/shougaifukushika/fukushiseido/syougaifukushi_jyosei/14809.html"
+      }
+    ]
+  },
+  {
+    "cityCode": "272256",
+    "id": "takaishi-osaka",
+    "pref": "大阪府",
+    "city": "高石市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Emblem_of_Takaishi%2C_Osaka.svg/120px-Emblem_of_Takaishi%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "高石市難聴児補聴器購入等助成事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "市内に在住する18歳未満で身体障害者手帳の対象外、両耳の聴力レベルがおおむね30dB以上で医師が必要と認めた児童（所得制限あり）",
+        "department": "高石市役所 地域福祉課（障がい福祉担当）",
+        "officialUrl": "https://www.city.takaishi.lg.jp/kakuka/fukushi_hoken/koureisyougai/syougaisyafukushi/hosougu_koufu_syuuri.html"
+      }
+    ]
+  },
+  {
+    "cityCode": "272264",
+    "id": "fujiidera-osaka",
+    "pref": "大阪府",
+    "city": "藤井寺市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Emblem_of_Fujiidera%2C_Osaka.svg/120px-Emblem_of_Fujiidera%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "藤井寺市軽度・中等度難聴児補聴器購入等助成事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "市内に在住する18歳未満で身体障害者手帳の対象外、両耳の聴力レベルが30dB以上等で医師が必要と認めた児童（所得制限あり）",
+        "department": "藤井寺市役所 福祉総務課（障がい福祉担当）",
+        "officialUrl": "https://www.city.fujiidera.lg.jp/soshiki/kenkou_fukushi/fukushisomu/tetsuzukiannai/10480.html"
+      }
+    ]
   },
   {
     "cityCode": "272272",
@@ -15488,6 +16925,120 @@ const subsidyData = [
     ],
     "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Emblem_of_Higashiosaka%2C_Osaka.svg/120px-Emblem_of_Higashiosaka%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Emblem_of_Higashiosaka%2C_Osaka.svg/120px-Emblem_of_Higashiosaka%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "cityCode": "272281",
+    "id": "sennan-osaka",
+    "pref": "大阪府",
+    "city": "泉南市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Emblem_of_Sennan%2C_Osaka.svg/120px-Emblem_of_Sennan%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "泉南市難聴児補聴器支援事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "市内に在住する18歳未満で身体障害者手帳の対象外、医師により補聴器の装用が必要と認められた児童",
+        "department": "泉南市役所 福祉保険部 障害福祉課",
+        "officialUrl": "https://www.city.sennan.lg.jp/kakuka/fukushihoken/shogaifukushi/shogaifukushi/gyoumu_sonota/seikatsu_shien/1455013584498.html"
+      },
+      {
+        "target": "senior",
+        "title": "泉南市高齢者補聴器購入費助成事業",
+        "amount": "購入費用の1/2（上限25,000円、1人1回限り）",
+        "condition": "市内に在住する65歳以上で市民税非課税世帯または生活保護世帯、身体障害者手帳の対象外、両耳の聴力レベルが40dB以上70dB未満と医師に診断された方（事前申請必須）",
+        "department": "泉南市役所 福祉保険部 長寿社会推進課",
+        "officialUrl": "https://www.city.sennan.lg.jp/kakuka/fukushihoken/chojushakaisuishin/koureifukushiservice/10073.html"
+      }
+    ]
+  },
+  {
+    "cityCode": "272299",
+    "id": "shijonawate-osaka",
+    "pref": "大阪府",
+    "city": "四條畷市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Emblem_of_Shij%C5%8Dnawate%2C_Osaka.svg/120px-Emblem_of_Shij%C5%8Dnawate%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "四條畷市軽度難聴児の補聴器購入助成事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "市内に在住する18歳未満で身体障害者手帳の対象外、両耳の聴力レベルが30dB以上等で医師が必要と認めた児童（所得制限あり）",
+        "department": "四條畷市役所 障がい福祉課",
+        "officialUrl": "https://www.city.shijonawate.lg.jp/page/30-1401.html"
+      }
+    ]
+  },
+  {
+    "cityCode": "272302",
+    "id": "katano-osaka",
+    "pref": "大阪府",
+    "city": "交野市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Emblem_of_Katano%2C_Osaka.svg/120px-Emblem_of_Katano%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "交野市軽度難聴児補聴器購入等助成事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "市内に在住する18歳未満で身体障害者手帳の対象外、両耳の聴力レベルが30dB以上60dB未満等で医師が必要と認めた児童（所得制限あり）",
+        "department": "交野市役所 福祉総務課（障がい福祉担当）",
+        "officialUrl": "https://www.city.katano.osaka.jp/docs/2017033000028/"
+      },
+      {
+        "target": "senior",
+        "title": "交野市高齢者補聴器等購入費助成事業",
+        "amount": "購入費用の1/2（上限30,000円、1人1回限り）",
+        "condition": "市内に在住する満65歳以上で市民税非課税世帯または生活保護世帯、身体障害者手帳の対象外、耳鼻咽喉科医が補聴器を必要と認めた方（事前申請必須）",
+        "department": "交野市役所 高齢介護課",
+        "officialUrl": "https://www.city.katano.osaka.jp/docs/2023030600024/"
+      }
+    ]
+  },
+  {
+    "cityCode": "272311",
+    "id": "osakasayama-osaka",
+    "pref": "大阪府",
+    "city": "大阪狭山市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Emblem_of_Osakasayama%2C_Osaka.svg/120px-Emblem_of_Osakasayama%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "大阪狭山市軽度難聴児補聴器購入等費用支給事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成、検査料補助上限5,000円あり）",
+        "condition": "市内に在住する18歳未満で身体障害者手帳の対象外、両耳の聴力レベルが原則30dB以上で医師が必要と認めた児童",
+        "department": "大阪狭山市役所 健康福祉部 福祉政策グループ",
+        "officialUrl": "https://www.city.osakasayama.osaka.jp/sosiki/kenkoufukushibu/fukushiseisaku/shougaishahukushi/yougusougu/1519195407969.html"
+      },
+      {
+        "target": "senior",
+        "title": "大阪狭山市高齢者補聴器購入費助成事業",
+        "amount": "上限25,000円（管理医療機器の補聴器1台、1人1回限り）",
+        "condition": "市内に在住する65歳以上で市民税非課税世帯、身体障害者手帳の対象外、指定医から補聴器が必要と認められた方（事前申請必須）",
+        "department": "大阪狭山市役所 高齢者福祉グループ",
+        "officialUrl": "https://www.city.osakasayama.osaka.jp/sosiki/kenkoufukushibu/koureishafukushi/1/4/3/6537.html"
+      }
+    ]
+  },
+  {
+    "cityCode": "272329",
+    "id": "hannan-osaka",
+    "pref": "大阪府",
+    "city": "阪南市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Emblem_of_Hannan%2C_Osaka.svg/120px-Emblem_of_Hannan%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "阪南市難聴児補聴器購入等支援事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "市内に在住する18歳未満で身体障害者手帳の対象外、両耳の聴力レベルが30dB以上等で医師が必要と認めた児童",
+        "department": "阪南市役所 市民部 障害福祉課",
+        "officialUrl": "https://www.city.hannan.lg.jp/kakuka/fukushi/shimin_f/service/8436.html"
+      }
+    ]
   },
   {
     "cityCode": "281000",
@@ -15623,6 +17174,50 @@ const subsidyData = [
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Emblem_of_Nishinomiya%2C_Hyogo.svg/120px-Emblem_of_Nishinomiya%2C_Hyogo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
+    "cityCode": "282057",
+    "id": "sumoto-hyogo",
+    "pref": "兵庫県",
+    "city": "洲本市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Emblem_of_Sumoto%2C_Hyogo.svg/120px-Emblem_of_Sumoto%2C_Hyogo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "洲本市軽・中度難聴児補聴器購入費等助成事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "市内に在住する18歳未満で身体障害者手帳の対象外、両耳の聴力レベルが原則30dB以上70dB未満で医師が装用効果を認めた児童（所得制限あり）",
+        "department": "洲本市役所 健康福祉部 地域福祉課",
+        "officialUrl": "https://www.city.sumoto.lg.jp/reiki/bunya_007000000100000070000.html"
+      },
+      {
+        "target": "senior",
+        "title": "洲本市聴こえGENKI事業（高齢者補聴器購入費助成）",
+        "amount": "補聴器本体価格の1/2（上限40,000円、1人1回限り）",
+        "condition": "市内に在住する満65歳以上で身体障害者手帳の対象外、両耳または片耳の聴力レベルが40dB以上70dB未満で補聴器相談医が必要と認めた方（事前申請必須）",
+        "department": "洲本市役所 健康福祉部 介護福祉課",
+        "officialUrl": "https://www.city.sumoto.lg.jp/soshiki/27/32017.html"
+      }
+    ]
+  },
+  {
+    "cityCode": "282065",
+    "id": "ashiya-hyogo",
+    "pref": "兵庫県",
+    "city": "芦屋市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Emblem_of_Ashiya%2C_Hyogo.svg/120px-Emblem_of_Ashiya%2C_Hyogo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "芦屋市軽・中度難聴児補聴器購入費等助成事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "市内に在住する18歳未満（年度末まで）で身体障害者手帳の対象外、両耳の聴力レベルが原則30dB以上70dB未満で医師が装用効果を認めた児童（所得制限あり）",
+        "department": "芦屋市役所 福祉部 障がい福祉課",
+        "officialUrl": "https://www.city.ashiya.lg.jp/shougai/siminn/josei/nanntyouji.html"
+      }
+    ]
+  },
+  {
     "cityCode": "282073",
     "id": "hyogo-itami",
     "pref": "兵庫県",
@@ -15645,6 +17240,58 @@ const subsidyData = [
     ],
     "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Emblem_of_Itami%2C_Hyogo.svg/120px-Emblem_of_Itami%2C_Hyogo.svg.png",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Emblem_of_Itami%2C_Hyogo.svg/120px-Emblem_of_Itami%2C_Hyogo.svg.png"
+  },
+  {
+    "cityCode": "282081",
+    "id": "aioi-hyogo",
+    "pref": "兵庫県",
+    "city": "相生市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Emblem_of_Aioi%2C_Hyogo.svg/120px-Emblem_of_Aioi%2C_Hyogo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "相生市軽・中度難聴児補聴器購入費等助成事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "市内に在住する18歳未満で身体障害者手帳の対象外、両耳の聴力レベルが30dB以上70dB未満等で医師が必要と認めた児童（所得制限あり）",
+        "department": "相生市役所 社会福祉課 障がい福祉係",
+        "officialUrl": "https://www.city.aioi.lg.jp/soshiki/shakaifukushi/keichudo.html"
+      },
+      {
+        "target": "senior",
+        "title": "相生市高齢者補聴器購入費助成事業",
+        "amount": "助成対象経費の全額または上限20,000円（1人1回限り）",
+        "condition": "市内に在住する満65歳以上で身体障害者手帳の対象外、両耳の聴力レベルが30dB以上70dB未満等で医師が必要と認めた方（事前申請必須）",
+        "department": "相生市役所 地域包括支援センター",
+        "officialUrl": "https://www.city.aioi.lg.jp/reiki/reiki_int/reiki_honbun/k310RG00001187.html"
+      }
+    ]
+  },
+  {
+    "cityCode": "282090",
+    "id": "toyooka-hyogo",
+    "pref": "兵庫県",
+    "city": "豊岡市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Emblem_of_Toyooka%2C_Hyogo.svg/120px-Emblem_of_Toyooka%2C_Hyogo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "豊岡市軽・中度難聴児補聴器助成事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "保護者が豊岡市内に在住する18歳未満の児童で、身体障害者手帳の対象外、両耳の聴力レベルが30dB以上70dB未満等で医師が必要と認めた方（所得制限あり）",
+        "department": "豊岡市役所 健康福祉部 社会福祉課 障がい福祉係",
+        "officialUrl": "https://www.city.toyooka.lg.jp/kurashi/fukushi/1018537/1018563/1018649.html"
+      },
+      {
+        "target": "senior",
+        "title": "豊岡市補聴器購入費助成事業",
+        "amount": "上限30,000円（本体購入費のみ、1人1回限り）",
+        "condition": "市内に在住する満18歳以上（高齢者含む）で身体障害者手帳の対象外、両耳の聴力レベルが40dB以上で耳鼻咽喉科医が必要と認めた方（事前申請必須）",
+        "department": "豊岡市役所 健康福祉部 高齢者生きがい課",
+        "officialUrl": "https://www.city.toyooka.lg.jp/koreisha/koreifukushi/1033204.html"
+      }
+    ]
   },
   {
     "cityCode": "282103",
@@ -15671,6 +17318,50 @@ const subsidyData = [
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Emblem_of_Kakogawa%2C_Hyogo.svg/120px-Emblem_of_Kakogawa%2C_Hyogo.svg.png"
   },
   {
+    "cityCode": "282120",
+    "id": "ako-hyogo",
+    "pref": "兵庫県",
+    "city": "赤穂市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Emblem_of_Ak%C5%8D%2C_Hy%C5%8Dgo.svg/120px-Emblem_of_Ak%C5%8D%2C_Hy%C5%8Dgo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "赤穂市軽・中度難聴児補聴器購入費等助成事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "保護者が赤穂市内に在住する18歳未満（年度末まで）の児童で、身体障害者手帳の対象外、両耳の聴力レベルが30dB以上70dB未満で医師が必要と認めた方（所得制限あり）",
+        "department": "赤穂市役所 健康福祉部 社会福祉課",
+        "officialUrl": "https://www.city.ako.lg.jp/reiki/reiki_honbun/k314RG00001012.html"
+      }
+    ]
+  },
+  {
+    "cityCode": "282138",
+    "id": "nishiwaki-hyogo",
+    "pref": "兵庫県",
+    "city": "西脇市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem_of_Nishiwaki%2C_Hy%C5%8Dgo.svg/120px-Emblem_of_Nishiwaki%2C_Hy%C5%8Dgo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "西脇市軽・中度難聴児補聴器購入費等助成事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "保護者が西脇市内に在住する18歳未満の児童で、身体障害者手帳の対象外、両耳30dB以上70dB未満等で医師が必要と認めた方（所得制限あり）",
+        "department": "西脇市役所 福祉部 福祉総務課",
+        "officialUrl": "https://www.city.nishiwaki.lg.jp/kakukanogoannai/fukushibu/fukushisoumuka/prosthetic_devices/1381827964733.html"
+      },
+      {
+        "target": "senior",
+        "title": "西脇市高齢者補聴器購入助成事業",
+        "amount": "上限35,000円（1人1回限り）",
+        "condition": "市内に在住する満65歳以上で身体障害者手帳の対象外、中等度難聴で耳鼻咽喉科医が補聴器の必要性を認めた方（事前申請必須）",
+        "department": "西脇市役所 福祉部 長寿福祉課",
+        "officialUrl": "https://www.city.nishiwaki.lg.jp/kakukanogoannai/fukushibu/cyoujyufukushika/koureisyashienfukushi/ninntisyoutaisaku/ninntisyoukannrennjigyou/27926.html"
+      }
+    ]
+  },
+  {
     "cityCode": "282146",
     "id": "hyogo-takarazuka",
     "pref": "兵庫県",
@@ -15693,6 +17384,42 @@ const subsidyData = [
     ],
     "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Emblem_of_Takarazuka%2C_Hyogo.svg/120px-Emblem_of_Takarazuka%2C_Hyogo.svg.png",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Emblem_of_Takarazuka%2C_Hyogo.svg/120px-Emblem_of_Takarazuka%2C_Hyogo.svg.png"
+  },
+  {
+    "cityCode": "282154",
+    "id": "miki-hyogo",
+    "pref": "兵庫県",
+    "city": "三木市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Emblem_of_Miki%2C_Hyogo_%281954%E2%80%931966%29.svg/120px-Emblem_of_Miki%2C_Hyogo_%281954%E2%80%931966%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "三木市軽・中度難聴児補聴器購入費等助成事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "市内に在住する18歳未満（年度末まで）で身体障害者手帳の対象外、両耳の聴力レベルが30dB以上70dB未満で医師が装用効果を認めた児童（所得制限あり）",
+        "department": "三木市役所 健康福祉部 障害福祉課",
+        "officialUrl": "https://www.city.miki.lg.jp/uploaded/life/96005_272885_misc.pdf"
+      }
+    ]
+  },
+  {
+    "cityCode": "282162",
+    "id": "takasago-hyogo",
+    "pref": "兵庫県",
+    "city": "高砂市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Emblem_of_Takasago%2C_Hyogo.svg/120px-Emblem_of_Takasago%2C_Hyogo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "高砂市軽・中度難聴児補聴器購入費等助成事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "市内に在住する18歳未満で身体障害者手帳の対象外、両耳の聴力レベルが原則30dB以上70dB未満で医師が必要と認めた児童（所得制限あり）",
+        "department": "高砂市役所 福祉部 障がい福祉課",
+        "officialUrl": "https://www.city.takasago.lg.jp/soshikikarasagasu/shogaifukushika/shogaishafukushi/1/1636.html"
+      }
+    ]
   },
   {
     "cityCode": "282171",
@@ -15719,6 +17446,24 @@ const subsidyData = [
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Emblem_of_Kawanishi%2C_Hyogo.svg/120px-Emblem_of_Kawanishi%2C_Hyogo.svg.png"
   },
   {
+    "cityCode": "282189",
+    "id": "ono-hyogo",
+    "pref": "兵庫県",
+    "city": "小野市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Emblem_of_Ono%2C_Hyogo.svg/120px-Emblem_of_Ono%2C_Hyogo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "小野市軽・中度難聴児補聴器購入費等助成事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "保護者が小野市内に在住する18歳未満（年度末まで）の児童で、身体障害者手帳の対象外、両耳聴力30dB以上70dB未満等で医師が必要と認めた方（所得制限あり）",
+        "department": "小野市役所 市民福祉部 社会福祉課 障がい福祉係",
+        "officialUrl": "https://www.city.ono.hyogo.jp/soshikikarasagasu/shiminfukushibu_shakaifukushika/gyomuannai/9/4/2/2926.html"
+      }
+    ]
+  },
+  {
     "cityCode": "282197",
     "id": "hyogo-sanda",
     "pref": "兵庫県",
@@ -15741,6 +17486,234 @@ const subsidyData = [
     ],
     "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Emblem_of_Sanda%2C_Hyogo.svg/120px-Emblem_of_Sanda%2C_Hyogo.svg.png",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Emblem_of_Sanda%2C_Hyogo.svg/120px-Emblem_of_Sanda%2C_Hyogo.svg.png"
+  },
+  {
+    "cityCode": "282201",
+    "id": "kasai-hyogo",
+    "pref": "兵庫県",
+    "city": "加西市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Emblem_of_Kasai%2C_Hy%C5%8Dgo.svg/120px-Emblem_of_Kasai%2C_Hy%C5%8Dgo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "加西市軽・中度難聴児補聴器購入費等助成事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "市内に在住する18歳未満で身体障害者手帳の対象外、両耳の聴力レベルが原則30dB以上70dB未満で医師が必要と認めた児童（所得制限あり）",
+        "department": "加西市役所 健康福祉部 地域福祉課",
+        "officialUrl": "https://www.city.kasai.hyogo.jp/uploaded/attachment/29844.pdf"
+      },
+      {
+        "target": "senior",
+        "title": "加西市高齢者補聴器購入費助成事業",
+        "amount": "上限30,000円（1人1回限り）",
+        "condition": "市内に在住する満65歳以上で身体障害者手帳の対象外、両耳の聴力レベルが40dB以上70dB未満で医師が必要と認めた方（事前申請必須）",
+        "department": "加西市役所 地域福祉課（高齢福祉担当）",
+        "officialUrl": "https://www.city.kasai.hyogo.jp/site/koureisyahukushi/44215.html"
+      }
+    ]
+  },
+  {
+    "cityCode": "282219",
+    "id": "tambasasayama-hyogo",
+    "pref": "兵庫県",
+    "city": "丹波篠山市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Emblem_of_Tambasasayama%2C_Hyogo.svg/120px-Emblem_of_Tambasasayama%2C_Hyogo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "丹波篠山市軽・中度難聴児補聴器購入費等助成事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成、所得制限撤廃）",
+        "condition": "市内に在住する18歳未満（年度末まで）で身体障害者手帳の対象外、両耳の聴力レベルが原則30dB以上70dB未満で医師が装用効果を認めた児童",
+        "department": "丹波篠山市役所 保健福祉部 社会福祉課 障害福祉係",
+        "officialUrl": "https://www.city.tambasasayama.lg.jp/soshikikarasagasu/shakaifukushika/kenko_fukushi/seidotetsuduki/14768.html"
+      }
+    ]
+  },
+  {
+    "cityCode": "282227",
+    "id": "yabu-hyogo",
+    "pref": "兵庫県",
+    "city": "養父市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Emblem_of_Yabu%2C_Hyogo.svg/120px-Emblem_of_Yabu%2C_Hyogo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "養父市軽・中度難聴児補聴器購入費助成制度",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "保護者が養父市内に在住する18歳未満の児童で、身体障害者手帳の対象外、両耳の聴力レベルが30dB以上70dB未満で医師が効果を認めた方",
+        "department": "養父市役所 こども・夢・えがお部 子育て応援課",
+        "officialUrl": "https://www.city.yabu.hyogo.jp/soshiki/kodomoyumeegao/kosodateoen/index.html"
+      },
+      {
+        "target": "senior",
+        "title": "養父市高齢者補聴器購入助成事業",
+        "amount": "上限30,000円（1人1回限り）",
+        "condition": "市内に在住する満65歳以上で身体障害者手帳の対象外、両耳の聴力レベルが40dB以上70dB未満の中等度難聴で医師が必要と認めた方（事前申請必須）",
+        "department": "養父市役所 健康福祉部 介護保険課",
+        "officialUrl": "https://www.city.yabu.hyogo.jp/soshiki/kenkofukushi/kaigo/2/10212.html"
+      }
+    ]
+  },
+  {
+    "cityCode": "282235",
+    "id": "tamba-hyogo",
+    "pref": "兵庫県",
+    "city": "丹波市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Emblem_of_Tanba%2C_Hyogo.svg/120px-Emblem_of_Tanba%2C_Hyogo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "丹波市軽・中度難聴児補聴器購入費等助成事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "市内に在住する18歳未満（年度末まで）で身体障害者手帳の対象外、両耳の聴力レベルが原則30dB以上70dB未満等で医師が必要と認めた児童（所得制限あり）",
+        "department": "丹波市役所 健康福祉部 障がい福祉課",
+        "officialUrl": "https://www.city.tamba.lg.jp/soshiki/shogaifukushika/gyomuannai/3/2/2/3129.html"
+      }
+    ]
+  },
+  {
+    "cityCode": "282243",
+    "id": "minamiawaji-hyogo",
+    "pref": "兵庫県",
+    "city": "南あわじ市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Emblem_of_Minamiawaji%2C_Hy%C5%8Dgo.svg/120px-Emblem_of_Minamiawaji%2C_Hy%C5%8Dgo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "南あわじ市軽・中度難聴児補聴器購入費等助成事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "市内に在住する18歳未満で身体障害者手帳の対象外、両耳の聴力レベルが30dB以上70dB未満等で医師が必要と認めた児童（所得制限あり）",
+        "department": "南あわじ市役所 福祉課",
+        "officialUrl": "https://www.city.minamiawaji.hyogo.jp/soshiki/fukushi/hochouki.html"
+      },
+      {
+        "target": "senior",
+        "title": "南あわじ市高齢者補聴器購入補助金",
+        "amount": "購入費用の1/2（上限40,000円、1人1回限り）",
+        "condition": "市内に在住する満65歳以上で身体障害者手帳の対象外、両耳の聴力レベルが40dB以上70dB未満等の中等度難聴で医師の意見書がある方（事前申請必須）",
+        "department": "南あわじ市役所 長寿介護課",
+        "officialUrl": "https://www.city.minamiawaji.hyogo.jp/soshiki/choujyu/koureishahochouki.html"
+      }
+    ]
+  },
+  {
+    "cityCode": "282251",
+    "id": "asago-hyogo",
+    "pref": "兵庫県",
+    "city": "朝来市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Emblem_of_Asago%2C_Hyogo.svg/120px-Emblem_of_Asago%2C_Hyogo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "朝来市軽・中度難聴児補聴器購入費等助成事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "保護者が朝来市内に在住する18歳未満の児童で、身体障害者手帳の対象外、両耳の聴力レベルが30dB以上70dB未満で医師が必要と認めた方（所得制限あり）",
+        "department": "朝来市役所 市民生活部 社会福祉課",
+        "officialUrl": "https://www.city.asago.hyogo.jp/reiki/reiki_honbun/r166RG00001433.html"
+      },
+      {
+        "target": "senior",
+        "title": "朝来市高齢者補聴器購入費助成金",
+        "amount": "上限20,000円（1人1回限り）",
+        "condition": "市内に在住する満65歳以上で身体障害者手帳の対象外、聴力低下により日常生活に支障があり耳鼻咽喉科医が必要と認めた方（事前申請必須）",
+        "department": "朝来市役所 高齢福祉課",
+        "officialUrl": "https://www.city.asago.hyogo.jp/reiki/reiki_honbun/r166RG00002039.html"
+      }
+    ]
+  },
+  {
+    "cityCode": "282260",
+    "id": "awaji-hyogo",
+    "pref": "兵庫県",
+    "city": "淡路市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Emblem_of_Awaji%2C_Hy%C5%8Dgo.svg/120px-Emblem_of_Awaji%2C_Hy%C5%8Dgo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "淡路市軽・中度難聴児補聴器購入費等助成事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "市内に在住する18歳未満で身体障害者手帳の対象外、両耳の聴力レベルが原則30dB以上70dB未満で医師が必要と認めた児童（所得制限あり）",
+        "department": "淡路市役所 福祉総務課",
+        "officialUrl": "https://www.city.awaji.lg.jp/uploaded/attachment/46258.pdf"
+      },
+      {
+        "target": "senior",
+        "title": "淡路市高齢者補聴器購入費補助金",
+        "amount": "購入費用の1/2（上限40,000円、1人1回限り）",
+        "condition": "市内に在住する65歳以上で身体障害者手帳の対象外、中等度難聴で医師の意見書がある方（事前申請必須）",
+        "department": "淡路市役所 長寿介護課",
+        "officialUrl": "https://www.city.awaji.lg.jp/soshiki/tyouzyu/51317.html"
+      }
+    ]
+  },
+  {
+    "cityCode": "282278",
+    "id": "shiso-hyogo",
+    "pref": "兵庫県",
+    "city": "宍粟市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Emblem_of_Shis%C5%8D%2C_Hy%C5%8Dgo.svg/120px-Emblem_of_Shis%C5%8D%2C_Hy%C5%8Dgo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "宍粟市軽中度難聴児補聴器等購入費助成事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "市内に在住する18歳未満で身体障害者手帳の対象外、両耳の聴力レベルが原則30dB以上70dB未満で医師が必要と認めた児童（所得制限あり）",
+        "department": "宍粟市役所 健康福祉部 障がい福祉課",
+        "officialUrl": "https://www.city.shiso.lg.jp/soshiki/kenkofukushi/shogaifukushi/tantojyoho/shogaifukushisabisu/1461754359935.html"
+      }
+    ]
+  },
+  {
+    "cityCode": "282286",
+    "id": "kato-hyogo",
+    "pref": "兵庫県",
+    "city": "加東市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Emblem_of_Kat%C5%8D%2C_Hy%C5%8Dgo.svg/120px-Emblem_of_Kat%C5%8D%2C_Hy%C5%8Dgo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "加東市軽・中度難聴児補聴器購入費等助成事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成）",
+        "condition": "市内に在住する18歳未満で身体障害者手帳の対象外、両耳の聴力レベルが原則30dB以上70dB未満で医師が必要と認めた児童（所得制限あり）",
+        "department": "加東市役所 健康福祉部 社会福祉課",
+        "officialUrl": "https://www.city.kato.lg.jp/section/reiki/reiki_honbun/r315RG00000941.html"
+      }
+    ]
+  },
+  {
+    "cityCode": "282294",
+    "id": "tatsuno-hyogo",
+    "pref": "兵庫県",
+    "city": "たつの市",
+    "area": "近畿",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Emblem_of_Tatsuno%2C_Hy%C5%8Dgo.svg/120px-Emblem_of_Tatsuno%2C_Hy%C5%8Dgo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "programs": [
+      {
+        "target": "child",
+        "title": "たつの市軽・中度難聴児補聴器購入費等助成事業",
+        "amount": "基準額または費用の2/3（生活保護・市民税非課税世帯は全額助成、所得制限撤廃）",
+        "condition": "市内に在住する18歳未満で身体障害者手帳の対象外、両耳の聴力レベルが原則30dB以上70dB未満等で医師が必要と認めた児童",
+        "department": "たつの市役所 地域福祉課（障がい福祉担当）",
+        "officialUrl": "https://www.city.tatsuno.lg.jp/material/files/group/17/ookikunareR8.pdf"
+      },
+      {
+        "target": "senior",
+        "title": "たつの市高齢者補聴器購入補助金",
+        "amount": "上限20,000円（片耳・両耳問わず1人1回限り）",
+        "condition": "市内に在住する満65歳以上で身体障害者手帳の対象外、両耳の聴力レベルがおおむね40dB以上70dB未満（中等度難聴）で医師の証明がある方（事前申請必須）",
+        "department": "たつの市役所 高年福祉課",
+        "officialUrl": "https://www.city.tatsuno.lg.jp/soshiki/1017/gyomu/konenfukushigakari/2/2/2088.html"
+      }
+    ]
   },
   {
     "cityCode": "292010",
@@ -16764,3 +18737,7 @@ const subsidyData = [
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Emblem_of_Naha%2C_Okinawa.svg/120px-Emblem_of_Naha%2C_Okinawa.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   }
 ];
+
+if (typeof module !== "undefined" && module.exports) {
+  module.exports = subsidyData;
+}
