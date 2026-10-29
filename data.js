@@ -46,7 +46,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Emblem_of_Hakodate%2C_Hokkaido.svg/120px-Emblem_of_Hakodate%2C_Hokkaido.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Emblem_of_Hakodate%2C_Hokkaido.svg/120px-Emblem_of_Hakodate%2C_Hokkaido.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Emblem_of_Hakodate%2C_Hokkaido.svg/120px-Emblem_of_Hakodate%2C_Hokkaido.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -107,7 +107,7 @@ const subsidyData = [
         "specialNote": "※モデル事業（募集期間・定員あり）"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Emblem_of_Asahikawa%2C_Hokkaido.svg/120px-Emblem_of_Asahikawa%2C_Hokkaido.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Emblem_of_Asahikawa%2C_Hokkaido.svg/120px-Emblem_of_Asahikawa%2C_Hokkaido.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Emblem_of_Asahikawa%2C_Hokkaido.svg/120px-Emblem_of_Asahikawa%2C_Hokkaido.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -811,7 +811,7 @@ const subsidyData = [
         "specialNote": "※所得制限なし（市税滞納なし）"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Emblem_of_Aomori%2C_Aomori.svg/120px-Emblem_of_Aomori%2C_Aomori.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Aomori_City_Emblem_%28colored_variant%29.svg/120px-Aomori_City_Emblem_%28colored_variant%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Emblem_of_Aomori%2C_Aomori.svg/120px-Emblem_of_Aomori%2C_Aomori.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -872,7 +872,7 @@ const subsidyData = [
         "specialNote": "※所得制限撤廃（全世帯対象）"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Emblem_of_Hachinohe%2C_Aomori.svg/120px-Emblem_of_Hachinohe%2C_Aomori.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Emblem_of_Hachinohe%2C_Aomori.svg/120px-Emblem_of_Hachinohe%2C_Aomori.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Emblem_of_Hachinohe%2C_Aomori.svg/120px-Emblem_of_Hachinohe%2C_Aomori.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -1155,7 +1155,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Emblem_of_Morioka%2C_Iwate.svg/120px-Emblem_of_Morioka%2C_Iwate.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Emblem_of_Morioka%2C_Iwate.svg/120px-Emblem_of_Morioka%2C_Iwate.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Emblem_of_Morioka%2C_Iwate.svg/120px-Emblem_of_Morioka%2C_Iwate.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -1909,7 +1909,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Emblem_of_Akita%2C_Akita.svg/120px-Emblem_of_Akita%2C_Akita.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Emblem_of_Akita%2C_Akita.svg/120px-Emblem_of_Akita%2C_Akita.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Emblem_of_Akita%2C_Akita.svg/120px-Emblem_of_Akita%2C_Akita.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -2338,7 +2338,7 @@ const subsidyData = [
         "specialNote": "※住民税非課税世帯のみ対象"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Emblem_of_Yamagata%2C_Yamagata.svg/120px-Emblem_of_Yamagata%2C_Yamagata.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Emblem_of_Yamagata%2C_Yamagata.svg/120px-Emblem_of_Yamagata%2C_Yamagata.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Emblem_of_Yamagata%2C_Yamagata.svg/120px-Emblem_of_Yamagata%2C_Yamagata.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -2702,7 +2702,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Emblem_of_Fukushima%2C_Fukushima.svg/120px-Emblem_of_Fukushima%2C_Fukushima.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Emblem_of_Fukushima%2C_Fukushima.svg/120px-Emblem_of_Fukushima%2C_Fukushima.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Emblem_of_Fukushima%2C_Fukushima.svg/120px-Emblem_of_Fukushima%2C_Fukushima.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -2776,7 +2776,7 @@ const subsidyData = [
         "specialNote": "※市民税非課税世帯のみ対象"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Emblem_of_Koriyama%2C_Fukushima.svg/120px-Emblem_of_Koriyama%2C_Fukushima.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Emblem_of_K%C5%8Driyama%2C_Fukushima.svg/120px-Emblem_of_K%C5%8Driyama%2C_Fukushima.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Emblem_of_Koriyama%2C_Fukushima.svg/120px-Emblem_of_Koriyama%2C_Fukushima.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -2813,7 +2813,7 @@ const subsidyData = [
         "specialNote": "※市民税非課税世帯のみ対象"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Emblem_of_Iwaki%2C_Fukushima.svg/120px-Emblem_of_Iwaki%2C_Fukushima.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Emblem_of_Iwaki%2C_Fukushima.svg/120px-Emblem_of_Iwaki%2C_Fukushima.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Emblem_of_Iwaki%2C_Fukushima.svg/120px-Emblem_of_Iwaki%2C_Fukushima.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -3953,7 +3953,7 @@ const subsidyData = [
         "specialNote": "※現物交付方式（差額自己負担可）"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Emblem_of_Utsunomiya%2C_Tochigi.svg/120px-Emblem_of_Utsunomiya%2C_Tochigi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Emblem_of_Utsunomiya%2C_Tochigi.svg/120px-Emblem_of_Utsunomiya%2C_Tochigi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Emblem_of_Utsunomiya%2C_Tochigi.svg/120px-Emblem_of_Utsunomiya%2C_Tochigi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -4330,7 +4330,7 @@ const subsidyData = [
         "specialNote": "※住民税非課税世帯のみ対象"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Emblem_of_Maebashi%2C_Gunma.svg/120px-Emblem_of_Maebashi%2C_Gunma.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Emblem_of_Maebashi%2C_Gunma.svg/120px-Emblem_of_Maebashi%2C_Gunma.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Emblem_of_Maebashi%2C_Gunma.svg/120px-Emblem_of_Maebashi%2C_Gunma.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -4354,7 +4354,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Emblem_of_Takasaki%2C_Gunma.svg/120px-Emblem_of_Takasaki%2C_Gunma.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/%E7%BE%A4%E9%A6%AC%E7%9C%8C%E9%AB%98%E5%B4%8E%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E7%BE%A4%E9%A6%AC%E7%9C%8C%E9%AB%98%E5%B4%8E%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Emblem_of_Takasaki%2C_Gunma.svg/120px-Emblem_of_Takasaki%2C_Gunma.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -4732,7 +4732,7 @@ const subsidyData = [
         "specialNote": "※市民税非課税世帯のみ対象"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Emblem_of_Kawagoe%2C_Saitama.svg/120px-Emblem_of_Kawagoe%2C_Saitama.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Emblem_of_Kawagoe%2C_Saitama.svg/120px-Emblem_of_Kawagoe%2C_Saitama.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Emblem_of_Kawagoe%2C_Saitama.svg/120px-Emblem_of_Kawagoe%2C_Saitama.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -4756,7 +4756,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/%E5%9F%BC%E7%8E%89%E7%9c%8C%E7%86%8A%E8%B0%B7%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%9F%BC%E7%8E%89%E7%9c%8C%E7%86%8A%E8%B0%B7%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%86%8A%E8%B0%B7%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%86%8A%E8%B0%B7%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/%E5%9F%BC%E7%8E%89%E7%9c%8C%E7%86%8A%E8%B0%B7%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%9F%BC%E7%8E%89%E7%9c%8C%E7%86%8A%E8%B0%B7%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -4793,7 +4793,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/%E5%9F%BC%E7%8E%89%E7%9c%8C%E5%B7%9D%E5%8F%A3%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%9F%BC%E7%8E%89%E7%9c%8C%E5%B7%9D%E5%8F%A3%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%B7%9D%E5%8F%A3%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%B7%9D%E5%8F%A3%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/%E5%9F%BC%E7%8E%89%E7%9c%8C%E5%B7%9D%E5%8F%A3%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%9F%BC%E7%8E%89%E7%9c%8C%E5%B7%9D%E5%8F%A3%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -5061,7 +5061,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/%E5%9F%BC%E7%8E%89%E7%9c%8C%E7%8B%AD%E5%B1%B1%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%9F%BC%E7%8E%89%E7%9c%8C%E7%8B%AD%E5%B1%B1%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%8B%AD%E5%B1%B1%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%8B%AD%E5%B1%B1%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/%E5%9F%BC%E7%8E%89%E7%9c%8C%E7%8B%AD%E5%B1%B1%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%9F%BC%E7%8E%89%E7%9c%8C%E7%8B%AD%E5%B1%B1%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -5070,7 +5070,7 @@ const subsidyData = [
     "pref": "埼玉県",
     "city": "羽生市",
     "area": "埼玉県北部",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%BE%BD%E7%94%9F%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%BE%BD%E7%94%9F%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%BE%BD%E7%94%9F%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%BE%BD%E7%94%9F%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
         "title": "難聴児補聴器購入費助成事業",
@@ -5270,7 +5270,7 @@ const subsidyData = [
         "specialNote": "※住民税非課税世帯のみ対象"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem_of_Koshigaya%2C_Saitama.svg/120px-Emblem_of_Koshigaya%2C_Saitama.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Emblem_of_Koshigaya%2C_Saitama.svg/120px-Emblem_of_Koshigaya%2C_Saitama.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem_of_Koshigaya%2C_Saitama.svg/120px-Emblem_of_Koshigaya%2C_Saitama.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -5571,7 +5571,7 @@ const subsidyData = [
     "pref": "埼玉県",
     "city": "八潮市",
     "area": "埼玉県東部",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Emblem_of_Yashio%2C_Saitama.svg/120px-Emblem_of_Yashio%2C_Saitama.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Emblem_of_Yashio%2C_Saitama.svg/120px-Emblem_of_Yashio%2C_Saitama.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
         "title": "難聴児補聴器購入費助成事業",
@@ -5656,7 +5656,7 @@ const subsidyData = [
     "pref": "埼玉県",
     "city": "蓮田市",
     "area": "埼玉県東部",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Emblem_of_Hasuda%2C_Saitama.svg/120px-Emblem_of_Hasuda%2C_Saitama.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Emblem_of_Hasuda%2C_Saitama.svg/120px-Emblem_of_Hasuda%2C_Saitama.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
         "title": "難聴児補聴器購入費及び修理費の助成",
@@ -5680,7 +5680,7 @@ const subsidyData = [
     "pref": "埼玉県",
     "city": "坂戸市",
     "area": "埼玉県中部",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Emblem_of_Sakado%2C_Saitama.svg/120px-Emblem_of_Sakado%2C_Saitama.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Emblem_of_Sakado%2C_Saitama.svg/120px-Emblem_of_Sakado%2C_Saitama.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
         "title": "難聴児補聴器購入費助成事業",
@@ -5717,7 +5717,7 @@ const subsidyData = [
     "pref": "埼玉県",
     "city": "幸手市",
     "area": "埼玉県東部",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Emblem_of_Satte%2C_Saitama.svg/120px-Emblem_of_Satte%2C_Saitama.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Emblem_of_Satte%2C_Saitama.svg/120px-Emblem_of_Satte%2C_Saitama.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
         "title": "難聴児補聴器購入費助成事業",
@@ -5741,7 +5741,7 @@ const subsidyData = [
     "pref": "埼玉県",
     "city": "鶴ヶ島市",
     "area": "埼玉県中部",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem_of_Tsurugashima%2C_Saitama.svg/120px-Emblem_of_Tsurugashima%2C_Saitama.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem_of_Tsurugashima%2C_Saitama.svg/120px-Emblem_of_Tsurugashima%2C_Saitama.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
         "title": "難聴児補聴器購入費助成事業",
@@ -5778,7 +5778,7 @@ const subsidyData = [
     "pref": "埼玉県",
     "city": "日高市",
     "area": "埼玉県西部",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Emblem_of_Hidaka%2C_Saitama.svg/120px-Emblem_of_Hidaka%2C_Saitama.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Emblem_of_Hidaka%2C_Saitama.svg/120px-Emblem_of_Hidaka%2C_Saitama.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
         "title": "難聴児補聴器給付事業",
@@ -5815,7 +5815,7 @@ const subsidyData = [
     "pref": "埼玉県",
     "city": "吉川市",
     "area": "埼玉県東部",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Emblem_of_Yoshikawa%2C_Saitama.svg/120px-Emblem_of_Yoshikawa%2C_Saitama.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Emblem_of_Yoshikawa%2C_Saitama.svg/120px-Emblem_of_Yoshikawa%2C_Saitama.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
         "title": "難聴児補聴器購入費助成",
@@ -5863,7 +5863,7 @@ const subsidyData = [
     "pref": "埼玉県",
     "city": "白岡市",
     "area": "埼玉県東部",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%99%BD%E5%B2%A1%E7%94%BA%E7%94%BA%E7%AB%A0.svg/120px-%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%99%BD%E5%B2%A1%E7%94%BA%E7%94%BA%E7%AB%A0.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%99%BD%E5%B2%A1%E7%94%BA%E7%94%BA%E7%AB%A0.svg/120px-%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%99%BD%E5%B2%A1%E7%94%BA%E7%94%BA%E7%AB%A0.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
         "title": "難聴児補聴器購入費助成事業",
@@ -5924,7 +5924,7 @@ const subsidyData = [
     "pref": "千葉県",
     "city": "銚子市",
     "area": "千葉県北東部",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/%E5%8D%83%E8%91%89%E7%9C%8C%E9%8Open%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%8D%83%E8%91%89%E7%9C%8C%E9%8Open%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/%E5%8D%83%E8%91%89%E7%9C%8C%E9%8A%9A%E5%AD%90%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%8D%83%E8%91%89%E7%9C%8C%E9%8A%9A%E5%AD%90%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
         "title": "難聴児補聴器購入費助成",
@@ -5989,7 +5989,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/%E5%8D%83%E8%91%89%E7%9c%8C%E5%B8%82%E5%B7%9D%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%8D%83%E8%91%89%E7%9c%8C%E5%B8%82%E5%B7%9D%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/%E5%8D%83%E8%91%89%E7%9C%8C%E5%B8%82%E5%B7%9D%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%8D%83%E8%91%89%E7%9C%8C%E5%B8%82%E5%B7%9D%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/%E5%8D%83%E8%91%89%E7%9c%8C%E5%B8%82%E5%B7%9D%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%8D%83%E8%91%89%E7%9c%8C%E5%B8%82%E5%B7%9D%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -6026,7 +6026,7 @@ const subsidyData = [
         "specialNote": "※購入後1年以内申請可（所得割非課税世帯）"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Emblem_of_Funabashi%2C_Chiba.svg/120px-Emblem_of_Funabashi%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Emblem_of_Funabashi%2C_Chiba.svg/120px-Emblem_of_Funabashi%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Emblem_of_Funabashi%2C_Chiba.svg/120px-Emblem_of_Funabashi%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -6035,7 +6035,7 @@ const subsidyData = [
     "pref": "千葉県",
     "city": "館山市",
     "area": "千葉県南部",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/%E5%8D%83%E8%91%89%E7%9C%8C%E9%A4%A8%E5%B1%B1%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%8D%83%E8%91%89%E7%9C%8C%E9%A4%A8%E5%B1%B1%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/%E5%8D%83%E8%91%89%E7%9C%8C%E9%A4%A8%E5%B1%B1%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%8D%83%E8%91%89%E7%9C%8C%E9%A4%A8%E5%B1%B1%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
         "title": "難聴児補聴器購入費等助成金",
@@ -6134,7 +6134,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/%E5%8D%83%E8%91%89%E7%9c%8C%E9%87%8E%E7%94%B0%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%8D%83%E8%91%89%E7%9c%8C%E9%87%8E%E7%94%B0%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Emblem_of_Noda%2C_Chiba.svg/120px-Emblem_of_Noda%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/%E5%8D%83%E8%91%89%E7%9c%8C%E9%87%8E%E7%94%B0%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%8D%83%E8%91%89%E7%9c%8C%E9%87%8E%E7%94%B0%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -6215,7 +6215,7 @@ const subsidyData = [
     "pref": "千葉県",
     "city": "東金市",
     "area": "千葉県東部",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Emblem_of_Togane%2C_Chiba.svg/120px-Emblem_of_Togane%2C_Chiba.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Emblem_of_Togane%2C_Chiba.svg/120px-Emblem_of_Togane%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
         "title": "軽度・中等度難聴児の補聴器購入費助成",
@@ -6239,7 +6239,7 @@ const subsidyData = [
     "pref": "千葉県",
     "city": "旭市",
     "area": "千葉県北東部",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Emblem_of_Asahi%2C_Chiba.svg/120px-Emblem_of_Asahi%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Emblem_of_Asahi%2C_Chiba.svg/120px-Emblem_of_Asahi%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
         "title": "軽度・中等度難聴児補聴器購入費助成",
@@ -6315,7 +6315,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Emblem_of_Kashiwa%2C_Chiba.svg/120px-Emblem_of_Kashiwa%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/%E5%8D%83%E8%91%89%E7%9C%8C%E6%9F%8F%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%8D%83%E8%91%89%E7%9C%8C%E6%9F%8F%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Emblem_of_Kashiwa%2C_Chiba.svg/120px-Emblem_of_Kashiwa%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -6324,7 +6324,7 @@ const subsidyData = [
     "pref": "千葉県",
     "city": "勝浦市",
     "area": "千葉県南部",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Emblem_of_Katsuura%2C_Chiba.svg/120px-Emblem_of_Katsuura%2C_Chiba.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Emblem_of_Katsuura%2C_Chiba.svg/120px-Emblem_of_Katsuura%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
         "title": "軽度・中等度難聴児補聴器購入費助成事業",
@@ -6470,7 +6470,7 @@ const subsidyData = [
     "pref": "千葉県",
     "city": "鴨川市",
     "area": "千葉県南部",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Emblem_of_Kamogawa%2C_Chiba.svg/120px-Emblem_of_Kamogawa%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Emblem_of_Kamogawa%2C_Chiba.svg/120px-Emblem_of_Kamogawa%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
         "title": "軽度・中等度難聴児補聴器購入費等助成金",
@@ -6531,7 +6531,7 @@ const subsidyData = [
     "pref": "千葉県",
     "city": "君津市",
     "area": "千葉県南部",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Emblem_of_Kimitsu%2C_Chiba.svg/120px-Emblem_of_Kimitsu%2C_Chiba.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Emblem_of_Kimitsu%2C_Chiba.svg/120px-Emblem_of_Kimitsu%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
         "title": "軽度・中等度難聴児補聴器購入費助成事業",
@@ -6555,7 +6555,7 @@ const subsidyData = [
     "pref": "千葉県",
     "city": "富津市",
     "area": "千葉県南部",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Emblem_of_Futtsu%2C_Chiba.svg/120px-Emblem_of_Futtsu%2C_Chiba.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Emblem_of_Futtsu%2C_Chiba.svg/120px-Emblem_of_Futtsu%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
         "title": "軽度・中等度難聴児補聴器購入費等助成事業",
@@ -6640,7 +6640,7 @@ const subsidyData = [
     "pref": "千葉県",
     "city": "袖ケ浦市",
     "area": "千葉県西部",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Emblem_of_Sodegaura%2C_Chiba.svg/120px-Emblem_of_Sodegaura%2C_Chiba.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Emblem_of_Sodegaura%2C_Chiba.svg/120px-Emblem_of_Sodegaura%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
         "title": "軽度・中等度難聴児補聴器購入費助成",
@@ -6664,7 +6664,7 @@ const subsidyData = [
     "pref": "千葉県",
     "city": "八街市",
     "area": "千葉県北部",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Emblem_of_Yachimata%2C_Chiba.svg/120px-Emblem_of_Yachimata%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Emblem_of_Yachimata%2C_Chiba.svg/120px-Emblem_of_Yachimata%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
         "title": "軽度・中等度難聴児補聴器購入費の助成",
@@ -6738,7 +6738,7 @@ const subsidyData = [
     "pref": "千葉県",
     "city": "白井市",
     "area": "千葉県北西部",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Emblem_of_Shiroi%2C_Chiba.svg/120px-Emblem_of_Shiroi%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Emblem_of_Shiroi%2C_Chiba.svg/120px-Emblem_of_Shiroi%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
         "title": "白井市難聴児補聴器購入費助成事業",
@@ -6762,7 +6762,7 @@ const subsidyData = [
     "pref": "千葉県",
     "city": "富里市",
     "area": "千葉県北部",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Emblem_of_Tomisato%2C_Chiba.svg/120px-Emblem_of_Tomisato%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Emblem_of_Tomisato%2C_Chiba.svg/120px-Emblem_of_Tomisato%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
         "title": "軽度・中等度難聴児補聴器購入費等助成事業",
@@ -6799,7 +6799,7 @@ const subsidyData = [
     "pref": "千葉県",
     "city": "南房総市",
     "area": "千葉県南部",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Emblem_of_Minamiboso%2C_Chiba.svg/120px-Emblem_of_Minamiboso%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Emblem_of_Minamiboso%2C_Chiba.svg/120px-Emblem_of_Minamiboso%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
         "title": "難聴児補聴器購入費助成",
@@ -6836,7 +6836,7 @@ const subsidyData = [
     "pref": "千葉県",
     "city": "匝瑳市",
     "area": "千葉県北東部",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Emblem_of_Sosa%2C_Chiba.svg/120px-Emblem_of_Sosa%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Emblem_of_Sosa%2C_Chiba.svg/120px-Emblem_of_Sosa%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
         "title": "軽度・中等度難聴児補聴器購入費の助成",
@@ -6860,7 +6860,7 @@ const subsidyData = [
     "pref": "千葉県",
     "city": "香取市",
     "area": "千葉県北東部",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Emblem_of_Katori%2C_Chiba.svg/120px-Emblem_of_Katori%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Emblem_of_Katori%2C_Chiba.svg/120px-Emblem_of_Katori%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
         "title": "軽度・中等度難聴児補聴器等購入費助成",
@@ -6884,7 +6884,7 @@ const subsidyData = [
     "pref": "千葉県",
     "city": "山武市",
     "area": "千葉県東部",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Emblem_of_Sanmu%2C_Chiba.svg/120px-Emblem_of_Sanmu%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Emblem_of_Sanmu%2C_Chiba.svg/120px-Emblem_of_Sanmu%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
         "title": "軽度・中等度難聴児補聴器購入費助成事業",
@@ -6921,7 +6921,7 @@ const subsidyData = [
     "pref": "千葉県",
     "city": "いすみ市",
     "area": "千葉県南部",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Emblem_of_Isumi%2C_Chiba.svg/120px-Emblem_of_Isumi%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Emblem_of_Isumi%2C_Chiba.svg/120px-Emblem_of_Isumi%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
         "title": "軽度・中等度難聴児補聴器購入助成金交付事業",
@@ -6958,7 +6958,7 @@ const subsidyData = [
     "pref": "千葉県",
     "city": "大網白里市",
     "area": "千葉県東部",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Emblem_of_%C5%8Camishirasato%2C_Chiba.svg/120px-Emblem_of_%C5%8Camishirasato%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Emblem_of_%C5%8Camishirasato%2C_Chiba.svg/120px-Emblem_of_%C5%8Camishirasato%2C_Chiba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
         "title": "補聴器交付及び修理（補装具費支給）",
@@ -7861,7 +7861,7 @@ const subsidyData = [
         "specialNote": "※所得制限なし（5万円超の購入に対し最大5万円）"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Emblem_of_Hachioji%2C_Tokyo.svg/120px-Emblem_of_Hachioji%2C_Tokyo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Emblem_of_Hachi%C5%8Dji%2C_Tokyo.svg/120px-Emblem_of_Hachi%C5%8Dji%2C_Tokyo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Emblem_of_Hachioji%2C_Tokyo.svg/120px-Emblem_of_Hachioji%2C_Tokyo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -8903,7 +8903,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Flag_of_Sagamihara%2C_Kanagawa.svg/120px-Flag_of_Sagamihara%2C_Kanagawa.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Flag_of_Sagamihara%2C_Kanagawa.svg/120px-Flag_of_Sagamihara%2C_Kanagawa.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "142018",
@@ -8939,7 +8939,7 @@ const subsidyData = [
         "specialNote": "※住民税非課税者対象（上限50,000円）"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Emblem_of_Yokosuka%2C_Kanagawa.svg/120px-Emblem_of_Yokosuka%2C_Kanagawa.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Emblem_of_Yokosuka%2C_Kanagawa.svg/120px-Emblem_of_Yokosuka%2C_Kanagawa.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -9352,7 +9352,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Emblem_of_Minamiashigara%2C_Kanagawa.svg/120px-Emblem_of_Minamiashigara%2C_Kanagawa.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Emblem_of_Minamiashigara%2C_Kanagawa.svg/120px-Emblem_of_Minamiashigara%2C_Kanagawa.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "142182",
@@ -9426,7 +9426,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Emblem_of_Hayama%2C_Kanagawa.svg/120px-Emblem_of_Hayama%2C_Kanagawa.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Emblem_of_Hayama%2C_Kanagawa.svg/120px-Emblem_of_Hayama%2C_Kanagawa.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "143219",
@@ -9450,7 +9450,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Emblem_of_Samukawa%2C_Kanagawa.svg/120px-Emblem_of_Samukawa%2C_Kanagawa.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Emblem_of_Samukawa%2C_Kanagawa.svg/120px-Emblem_of_Samukawa%2C_Kanagawa.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "143413",
@@ -9474,7 +9474,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Emblem_of_Oiso%2C_Kanagawa.svg/120px-Emblem_of_Oiso%2C_Kanagawa.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Emblem_of_Oiso%2C_Kanagawa.svg/120px-Emblem_of_Oiso%2C_Kanagawa.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "143421",
@@ -9498,7 +9498,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Emblem_of_Ninomiya%2C_Kanagawa.svg/120px-Emblem_of_Ninomiya%2C_Kanagawa.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Emblem_of_Ninomiya%2C_Kanagawa.svg/120px-Emblem_of_Ninomiya%2C_Kanagawa.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "143618",
@@ -9535,7 +9535,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Emblem_of_Nakai%2C_Kanagawa.svg/120px-Emblem_of_Nakai%2C_Kanagawa.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Emblem_of_Nakai%2C_Kanagawa.svg/120px-Emblem_of_Nakai%2C_Kanagawa.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "143626",
@@ -9572,7 +9572,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Emblem_of_Oi%2C_Kanagawa.svg/120px-Emblem_of_Oi%2C_Kanagawa.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Emblem_of_Oi%2C_Kanagawa.svg/120px-Emblem_of_Oi%2C_Kanagawa.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "143634",
@@ -9609,7 +9609,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Emblem_of_Matsuda%2C_Kanagawa.svg/120px-Emblem_of_Matsuda%2C_Kanagawa.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Emblem_of_Matsuda%2C_Kanagawa.svg/120px-Emblem_of_Matsuda%2C_Kanagawa.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "143642",
@@ -9633,7 +9633,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Emblem_of_Yamakita%2C_Kanagawa.svg/120px-Emblem_of_Yamakita%2C_Kanagawa.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Emblem_of_Yamakita%2C_Kanagawa.svg/120px-Emblem_of_Yamakita%2C_Kanagawa.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "143669",
@@ -9657,7 +9657,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Flag_of_Kaisei%2C_Kanagawa.svg/120px-Flag_of_Kaisei%2C_Kanagawa.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Flag_of_Kaisei%2C_Kanagawa.svg/120px-Flag_of_Kaisei%2C_Kanagawa.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "143821",
@@ -9681,7 +9681,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Emblem_of_Hakone%2C_Kanagawa.svg/120px-Emblem_of_Hakone%2C_Kanagawa.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Emblem_of_Hakone%2C_Kanagawa.svg/120px-Emblem_of_Hakone%2C_Kanagawa.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "143839",
@@ -9705,7 +9705,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Emblem_of_Manazuru%2C_Kanagawa.svg/120px-Emblem_of_Manazuru%2C_Kanagawa.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Emblem_of_Manazuru%2C_Kanagawa.svg/120px-Emblem_of_Manazuru%2C_Kanagawa.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "143847",
@@ -9742,7 +9742,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Emblem_of_Yugawara%2C_Kanagawa.svg/120px-Emblem_of_Yugawara%2C_Kanagawa.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Emblem_of_Yugawara%2C_Kanagawa.svg/120px-Emblem_of_Yugawara%2C_Kanagawa.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "144011",
@@ -9779,7 +9779,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Emblem_of_Aikawa%2C_Kanagawa.svg/120px-Emblem_of_Aikawa%2C_Kanagawa.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Emblem_of_Aikawa%2C_Kanagawa.svg/120px-Emblem_of_Aikawa%2C_Kanagawa.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "144029",
@@ -9816,7 +9816,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Emblem_of_Kiyokawa%2C_Kanagawa.svg/120px-Emblem_of_Kiyokawa%2C_Kanagawa.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Emblem_of_Kiyokawa%2C_Kanagawa.svg/120px-Emblem_of_Kiyokawa%2C_Kanagawa.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "151009",
@@ -9853,7 +9853,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Emblem_of_Niigata%2C_Niigata.svg/120px-Emblem_of_Niigata%2C_Niigata.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Emblem_of_Niigata%2C_Niigata.svg/120px-Emblem_of_Niigata%2C_Niigata.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "152021",
@@ -9890,7 +9890,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Emblem_of_Nagaoka%2C_Niigata.svg/120px-Emblem_of_Nagaoka%2C_Niigata.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Emblem_of_Nagaoka%2C_Niigata.svg/120px-Emblem_of_Nagaoka%2C_Niigata.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "152048",
@@ -9927,7 +9927,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Emblem_of_Sanjo%2C_Niigata.svg/120px-Emblem_of_Sanjo%2C_Niigata.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Emblem_of_Sanjo%2C_Niigata.svg/120px-Emblem_of_Sanjo%2C_Niigata.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "152056",
@@ -9964,7 +9964,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Emblem_of_Kashiwazaki%2C_Niigata.svg/120px-Emblem_of_Kashiwazaki%2C_Niigata.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Emblem_of_Kashiwazaki%2C_Niigata.svg/120px-Emblem_of_Kashiwazaki%2C_Niigata.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "152064",
@@ -10001,7 +10001,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Emblem_of_Shibata%2C_Niigata.svg/120px-Emblem_of_Shibata%2C_Niigata.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Emblem_of_Shibata%2C_Niigata.svg/120px-Emblem_of_Shibata%2C_Niigata.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "152081",
@@ -10038,7 +10038,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Emblem_of_Ojiya%2C_Niigata.svg/120px-Emblem_of_Ojiya%2C_Niigata.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Emblem_of_Ojiya%2C_Niigata.svg/120px-Emblem_of_Ojiya%2C_Niigata.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "152099",
@@ -10075,7 +10075,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Emblem_of_Kamo%2C_Niigata.svg/120px-Emblem_of_Kamo%2C_Niigata.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Emblem_of_Kamo%2C_Niigata.svg/120px-Emblem_of_Kamo%2C_Niigata.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "152102",
@@ -10112,7 +10112,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Emblem_of_Tokamachi%2C_Niigata.svg/120px-Emblem_of_Tokamachi%2C_Niigata.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Emblem_of_Tokamachi%2C_Niigata.svg/120px-Emblem_of_Tokamachi%2C_Niigata.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "152111",
@@ -10149,7 +10149,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Emblem_of_Mitsuke%2C_Niigata.svg/120px-Emblem_of_Mitsuke%2C_Niigata.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Emblem_of_Mitsuke%2C_Niigata.svg/120px-Emblem_of_Mitsuke%2C_Niigata.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "152129",
@@ -10186,7 +10186,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Emblem_of_Murakami%2C_Niigata.svg/120px-Emblem_of_Murakami%2C_Niigata.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Emblem_of_Murakami%2C_Niigata.svg/120px-Emblem_of_Murakami%2C_Niigata.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "152137",
@@ -10223,7 +10223,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Emblem_of_Tsubame%2C_Niigata.svg/120px-Emblem_of_Tsubame%2C_Niigata.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Emblem_of_Tsubame%2C_Niigata.svg/120px-Emblem_of_Tsubame%2C_Niigata.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "152161",
@@ -10260,7 +10260,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Emblem_of_Itoigawa%2C_Niigata.svg/120px-Emblem_of_Itoigawa%2C_Niigata.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Emblem_of_Itoigawa%2C_Niigata.svg/120px-Emblem_of_Itoigawa%2C_Niigata.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "152170",
@@ -10297,7 +10297,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Emblem_of_My%C5%8Dk%C5%8D%2C_Niigata.svg/120px-Emblem_of_My%C5%8Dk%C5%8D%2C_Niigata.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Emblem_of_My%C5%8Dk%C5%8D%2C_Niigata.svg/120px-Emblem_of_My%C5%8Dk%C5%8D%2C_Niigata.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "152188",
@@ -10334,7 +10334,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Emblem_of_Gosen%2C_Niigata.svg/120px-Emblem_of_Gosen%2C_Niigata.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Emblem_of_Gosen%2C_Niigata.svg/120px-Emblem_of_Gosen%2C_Niigata.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "152226",
@@ -10371,7 +10371,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_Joetsu%2C_Niigata.svg/120px-Flag_of_Joetsu%2C_Niigata.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_Joetsu%2C_Niigata.svg/120px-Flag_of_Joetsu%2C_Niigata.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "152234",
@@ -10408,7 +10408,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Emblem_of_Agano%2C_Niigata.svg/120px-Emblem_of_Agano%2C_Niigata.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Emblem_of_Agano%2C_Niigata.svg/120px-Emblem_of_Agano%2C_Niigata.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "152242",
@@ -10445,7 +10445,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Emblem_of_Sado%2C_Niigata.svg/120px-Emblem_of_Sado%2C_Niigata.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Emblem_of_Sado%2C_Niigata.svg/120px-Emblem_of_Sado%2C_Niigata.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "152251",
@@ -10482,7 +10482,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Emblem_of_Uonuma%2C_Niigata.svg/120px-Emblem_of_Uonuma%2C_Niigata.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Emblem_of_Uonuma%2C_Niigata.svg/120px-Emblem_of_Uonuma%2C_Niigata.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "152269",
@@ -10519,7 +10519,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Emblem_of_Minamiuonuma%2C_Niigata.svg/120px-Emblem_of_Minamiuonuma%2C_Niigata.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Emblem_of_Minamiuonuma%2C_Niigata.svg/120px-Emblem_of_Minamiuonuma%2C_Niigata.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "152277",
@@ -10556,7 +10556,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Emblem_of_Tainai%2C_Niigata.svg/120px-Emblem_of_Tainai%2C_Niigata.svg.png"
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Emblem_of_Tainai%2C_Niigata.svg/120px-Emblem_of_Tainai%2C_Niigata.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
     "cityCode": "162019",
@@ -11362,7 +11362,7 @@ const subsidyData = [
     "pref": "山梨県",
     "city": "甲府市",
     "area": "国中",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/%E5%B1%B1%E6%A2%A8%E7%9C%8C%E7%94%B2%E5%BA%9C%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%B1%B1%E6%A2%A8%E7%9C%8C%E7%94%B2%E5%BA%9C%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/%E5%B1%B1%E6%A2%A8%E7%9C%8C%E7%94%B2%E5%BA%9C%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%B1%B1%E6%A2%A8%E7%9C%8C%E7%94%B2%E5%BA%9C%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/%E5%B1%B1%E6%A2%A8%E7%9C%8C%E7%94%B2%E5%BA%9C%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%B1%B1%E6%A2%A8%E7%9C%8C%E7%94%B2%E5%BA%9C%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
@@ -11399,7 +11399,7 @@ const subsidyData = [
     "pref": "山梨県",
     "city": "富士吉田市",
     "area": "富士・東部",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%AF%8C%E5%A3%AB%E5%90%89%E7%94%B0%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%AF%8C%E5%A3%AB%E5%90%89%E7%94%B0%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%AF%8C%E5%A3%AB%E5%90%89%E7%94%B0%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%AF%8C%E5%A3%AB%E5%90%89%E7%94%B0%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%AF%8C%E5%A3%AB%E5%90%89%E7%94%B0%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%AF%8C%E5%A3%AB%E5%90%89%E7%94%B0%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
@@ -11436,7 +11436,7 @@ const subsidyData = [
     "pref": "山梨県",
     "city": "都留市",
     "area": "富士・東部",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/%E5%B1%B1%E6%A2%A8%E7%9C%8C%E9%83%BD%E7%95%99%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%B1%B1%E6%A2%A8%E7%9C%8C%E9%83%BD%E7%95%99%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/%E5%B1%B1%E6%A2%A8%E7%9C%8C%E9%83%BD%E7%95%99%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%B1%B1%E6%A2%A8%E7%9C%8C%E9%83%BD%E7%95%99%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/%E5%B1%B1%E6%A2%A8%E7%9C%8C%E9%83%BD%E7%95%99%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%B1%B1%E6%A2%A8%E7%9C%8C%E9%83%BD%E7%95%99%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
@@ -11473,7 +11473,7 @@ const subsidyData = [
     "pref": "山梨県",
     "city": "山梨市",
     "area": "国中",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Emblem_of_Yamanashi%2C_Yamanashi.svg/120px-Emblem_of_Yamanashi%2C_Yamanashi.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Emblem_of_Yamanashi%2C_Yamanashi.svg/120px-Emblem_of_Yamanashi%2C_Yamanashi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Emblem_of_Yamanashi%2C_Yamanashi.svg/120px-Emblem_of_Yamanashi%2C_Yamanashi.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
@@ -11510,7 +11510,7 @@ const subsidyData = [
     "pref": "山梨県",
     "city": "大月市",
     "area": "富士・東部",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%A4%A7%E6%9C%88%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%A4%A7%E6%9C%88%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%A4%A7%E6%9C%88%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%A4%A7%E6%9C%88%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%A4%A7%E6%9C%88%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%A4%A7%E6%9C%88%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
@@ -11547,7 +11547,7 @@ const subsidyData = [
     "pref": "山梨県",
     "city": "韮崎市",
     "area": "国中",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/%E5%B1%B1%E6%A2%A8%E7%9C%8C%E9%9F%AE%E5%B4%8E%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%B1%B1%E6%A2%A8%E7%9C%8C%E9%9F%AE%E5%B4%8E%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/%E5%B1%B1%E6%A2%A8%E7%9C%8C%E9%9F%AE%E5%B4%8E%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%B1%B1%E6%A2%A8%E7%9C%8C%E9%9F%AE%E5%B4%8E%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/%E5%B1%B1%E6%A2%A8%E7%9C%8C%E9%9F%AE%E5%B4%8E%E5%B8%82%E5%B8%82%E7%AB%A0.svg/120px-%E5%B1%B1%E6%A2%A8%E7%9C%8C%E9%9F%AE%E5%B4%8E%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
@@ -11584,7 +11584,7 @@ const subsidyData = [
     "pref": "山梨県",
     "city": "南アルプス市",
     "area": "国中",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Emblem_of_Minami-Alps%2C_Yamanashi.svg/120px-Emblem_of_Minami-Alps%2C_Yamanashi.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Emblem_of_Minami-Alps%2C_Yamanashi.svg/120px-Emblem_of_Minami-Alps%2C_Yamanashi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Emblem_of_Minami-Alps%2C_Yamanashi.svg/120px-Emblem_of_Minami-Alps%2C_Yamanashi.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
@@ -11621,7 +11621,7 @@ const subsidyData = [
     "pref": "山梨県",
     "city": "北杜市",
     "area": "国中",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Emblem_of_Hokuto%2C_Yamanashi.svg/120px-Emblem_of_Hokuto%2C_Yamanashi.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Emblem_of_Hokuto%2C_Yamanashi.svg/120px-Emblem_of_Hokuto%2C_Yamanashi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Emblem_of_Hokuto%2C_Yamanashi.svg/120px-Emblem_of_Hokuto%2C_Yamanashi.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
@@ -11658,7 +11658,7 @@ const subsidyData = [
     "pref": "山梨県",
     "city": "甲斐市",
     "area": "国中",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Emblem_of_Kai%2C_Yamanashi.svg/120px-Emblem_of_Kai%2C_Yamanashi.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Emblem_of_Kai%2C_Yamanashi.svg/120px-Emblem_of_Kai%2C_Yamanashi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Emblem_of_Kai%2C_Yamanashi.svg/120px-Emblem_of_Kai%2C_Yamanashi.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
@@ -11695,7 +11695,7 @@ const subsidyData = [
     "pref": "山梨県",
     "city": "笛吹市",
     "area": "国中",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Emblem_of_Fuefuki%2C_Yamanashi.svg/120px-Emblem_of_Fuefuki%2C_Yamanashi.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Emblem_of_Fuefuki%2C_Yamanashi.svg/120px-Emblem_of_Fuefuki%2C_Yamanashi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Emblem_of_Fuefuki%2C_Yamanashi.svg/120px-Emblem_of_Fuefuki%2C_Yamanashi.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
@@ -11732,7 +11732,7 @@ const subsidyData = [
     "pref": "山梨県",
     "city": "上野原市",
     "area": "富士・東部",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Emblem_of_Uenohara%2C_Yamanashi.svg/120px-Emblem_of_Uenohara%2C_Yamanashi.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Emblem_of_Uenohara%2C_Yamanashi.svg/120px-Emblem_of_Uenohara%2C_Yamanashi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Emblem_of_Uenohara%2C_Yamanashi.svg/120px-Emblem_of_Uenohara%2C_Yamanashi.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
@@ -11769,7 +11769,7 @@ const subsidyData = [
     "pref": "山梨県",
     "city": "甲州市",
     "area": "国中",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Emblem_of_Koshu%2C_Yamanashi.svg/120px-Emblem_of_Koshu%2C_Yamanashi.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Emblem_of_Koshu%2C_Yamanashi.svg/120px-Emblem_of_Koshu%2C_Yamanashi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Emblem_of_Koshu%2C_Yamanashi.svg/120px-Emblem_of_Koshu%2C_Yamanashi.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
@@ -11806,7 +11806,7 @@ const subsidyData = [
     "pref": "山梨県",
     "city": "中央市",
     "area": "国中",
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Emblem_of_Chuo%2C_Yamanashi.svg/120px-Emblem_of_Chuo%2C_Yamanashi.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Emblem_of_Chuo%2C_Yamanashi.svg/120px-Emblem_of_Chuo%2C_Yamanashi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Emblem_of_Chuo%2C_Yamanashi.svg/120px-Emblem_of_Chuo%2C_Yamanashi.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "programs": [
       {
@@ -13913,7 +13913,7 @@ const subsidyData = [
         "specialNote": "※市民税非課税世帯のみ対象"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Emblem_of_Toyohashi%2C_Aichi.svg/120px-Emblem_of_Toyohashi%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Emblem_of_Toyohashi%2C_Aichi.svg/120px-Emblem_of_Toyohashi%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Emblem_of_Toyohashi%2C_Aichi.svg/120px-Emblem_of_Toyohashi%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -13937,7 +13937,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Emblem_of_Okazaki%2C_Aichi.svg/120px-Emblem_of_Okazaki%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Emblem_of_Okazaki%2C_Aichi.svg/120px-Emblem_of_Okazaki%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Emblem_of_Okazaki%2C_Aichi.svg/120px-Emblem_of_Okazaki%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -13974,7 +13974,7 @@ const subsidyData = [
         "specialNote": "※市民税非課税世帯のみ対象"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Emblem_of_Ichinomiya%2C_Aichi.svg/120px-Emblem_of_Ichinomiya%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Emblem_of_Ichinomiya%2C_Aichi.svg/120px-Emblem_of_Ichinomiya%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Emblem_of_Ichinomiya%2C_Aichi.svg/120px-Emblem_of_Ichinomiya%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -14011,7 +14011,7 @@ const subsidyData = [
         "specialNote": "※市民税非課税世帯のみ対象"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Emblem_of_Seto%2C_Aichi.svg/120px-Emblem_of_Seto%2C_Aichi.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Emblem_of_Seto%2C_Aichi.svg/120px-Emblem_of_Seto%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Emblem_of_Seto%2C_Aichi.svg/120px-Emblem_of_Seto%2C_Aichi.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -14035,7 +14035,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Emblem_of_Handa%2C_Aichi.svg/120px-Emblem_of_Handa%2C_Aichi.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Emblem_of_Handa%2C_Aichi.svg/120px-Emblem_of_Handa%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Emblem_of_Handa%2C_Aichi.svg/120px-Emblem_of_Handa%2C_Aichi.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -14072,7 +14072,7 @@ const subsidyData = [
         "specialNote": "※課税世帯も15,000円助成"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Emblem_of_Kasugai%2C_Aichi.svg/120px-Emblem_of_Kasugai%2C_Aichi.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Emblem_of_Kasugai%2C_Aichi.svg/120px-Emblem_of_Kasugai%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Emblem_of_Kasugai%2C_Aichi.svg/120px-Emblem_of_Kasugai%2C_Aichi.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -14194,7 +14194,7 @@ const subsidyData = [
         "specialNote": "※課税世帯も15,000円助成"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Emblem_of_Kariya%2C_Aichi.svg/120px-Emblem_of_Kariya%2C_Aichi.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Emblem_of_Kariya%2C_Aichi.svg/120px-Emblem_of_Kariya%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Emblem_of_Kariya%2C_Aichi.svg/120px-Emblem_of_Kariya%2C_Aichi.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -14231,7 +14231,7 @@ const subsidyData = [
         "specialNote": "※18歳以上成人・高齢者対象（課税者も1.5万円助成）"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Emblem_of_Toyota%2C_Aichi.svg/120px-Emblem_of_Toyota%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Emblem_of_Toyota%2C_Aichi.svg/120px-Emblem_of_Toyota%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Emblem_of_Toyota%2C_Aichi.svg/120px-Emblem_of_Toyota%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -14268,7 +14268,7 @@ const subsidyData = [
         "specialNote": "※課税世帯も15,000円助成"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem_of_Anjo%2C_Aichi.svg/120px-Emblem_of_Anjo%2C_Aichi.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem_of_Anjo%2C_Aichi.svg/120px-Emblem_of_Anjo%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem_of_Anjo%2C_Aichi.svg/120px-Emblem_of_Anjo%2C_Aichi.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -14305,7 +14305,7 @@ const subsidyData = [
         "specialNote": "※第4〜7段階も15,000円助成"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Emblem_of_Nishio%2C_Aichi.svg/120px-Emblem_of_Nishio%2C_Aichi.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Emblem_of_Nishio%2C_Aichi.svg/120px-Emblem_of_Nishio%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Emblem_of_Nishio%2C_Aichi.svg/120px-Emblem_of_Nishio%2C_Aichi.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -14440,7 +14440,7 @@ const subsidyData = [
         "specialNote": "※住民税非課税世帯のみ対象"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Emblem_of_Konan%2C_Aichi.svg/120px-Emblem_of_Konan%2C_Aichi.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Emblem_of_Konan%2C_Aichi.svg/120px-Emblem_of_Konan%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Emblem_of_Konan%2C_Aichi.svg/120px-Emblem_of_Konan%2C_Aichi.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -14477,7 +14477,7 @@ const subsidyData = [
         "specialNote": "※18歳以上対象・非課税世帯等限定"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo_of_Komaki_City.svg/120px-Logo_of_Komaki_City.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo_of_Komaki_City.svg/120px-Logo_of_Komaki_City.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo_of_Komaki_City.svg/120px-Logo_of_Komaki_City.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -14514,7 +14514,7 @@ const subsidyData = [
         "specialNote": "※市町村民税非課税世帯のみ対象"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Emblem_of_Inazawa%2C_Aichi.svg/120px-Emblem_of_Inazawa%2C_Aichi.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Emblem_of_Inazawa%2C_Aichi.svg/120px-Emblem_of_Inazawa%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Emblem_of_Inazawa%2C_Aichi.svg/120px-Emblem_of_Inazawa%2C_Aichi.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -14588,7 +14588,7 @@ const subsidyData = [
         "specialNote": "※課税世帯も25,000円助成"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Emblem_of_Tokai%2C_Aichi.svg/120px-Emblem_of_Tokai%2C_Aichi.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Emblem_of_Tokai%2C_Aichi.svg/120px-Emblem_of_Tokai%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Emblem_of_Tokai%2C_Aichi.svg/120px-Emblem_of_Tokai%2C_Aichi.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -14625,7 +14625,7 @@ const subsidyData = [
         "specialNote": "※課税世帯も15,000円助成"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Emblem_of_%C5%8Cbu%2C_Aichi.svg/120px-Emblem_of_%C5%8Cbu%2C_Aichi.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Emblem_of_%C5%8Cbu%2C_Aichi.svg/120px-Emblem_of_%C5%8Cbu%2C_Aichi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Emblem_of_%C5%8Cbu%2C_Aichi.svg/120px-Emblem_of_%C5%8Cbu%2C_Aichi.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -15475,7 +15475,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Emblem_of_Otsu%2C_Shiga.svg/120px-Emblem_of_Otsu%2C_Shiga.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Emblem_of_%C5%8Ctsu%2C_Shiga.svg/120px-Emblem_of_%C5%8Ctsu%2C_Shiga.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Emblem_of_Otsu%2C_Shiga.svg/120px-Emblem_of_Otsu%2C_Shiga.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -16280,7 +16280,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Emblem_of_Kishiwada%2C_Osaka.svg/120px-Emblem_of_Kishiwada%2C_Osaka.svg.png",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Emblem_of_Kishiwada%2C_Osaka.svg/120px-Emblem_of_Kishiwada%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Emblem_of_Kishiwada%2C_Osaka.svg/120px-Emblem_of_Kishiwada%2C_Osaka.svg.png"
   },
   {
@@ -16304,7 +16304,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Emblem_of_Toyonaka%2C_Osaka.svg/120px-Emblem_of_Toyonaka%2C_Osaka.svg.png",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Emblem_of_Toyonaka%2C_Osaka.svg/120px-Emblem_of_Toyonaka%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Emblem_of_Toyonaka%2C_Osaka.svg/120px-Emblem_of_Toyonaka%2C_Osaka.svg.png"
   },
   {
@@ -16346,7 +16346,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Emblem_of_Suita%2C_Osaka.svg/120px-Emblem_of_Suita%2C_Osaka.svg.png",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Emblem_of_Suita%2C_Osaka.svg/120px-Emblem_of_Suita%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Emblem_of_Suita%2C_Osaka.svg/120px-Emblem_of_Suita%2C_Osaka.svg.png"
   },
   {
@@ -16409,7 +16409,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Emblem_of_Takatsuki%2C_Osaka.svg/120px-Emblem_of_Takatsuki%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Emblem_of_Takatsuki%2C_Osaka.svg/120px-Emblem_of_Takatsuki%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Emblem_of_Takatsuki%2C_Osaka.svg/120px-Emblem_of_Takatsuki%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -16472,7 +16472,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Emblem_of_Moriguchi%2C_Osaka.svg/120px-Emblem_of_Moriguchi%2C_Osaka.svg.png",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Emblem_of_Moriguchi%2C_Osaka.svg/120px-Emblem_of_Moriguchi%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Emblem_of_Moriguchi%2C_Osaka.svg/120px-Emblem_of_Moriguchi%2C_Osaka.svg.png"
   },
   {
@@ -16509,7 +16509,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Emblem_of_Hirakata%2C_Osaka.svg/120px-Emblem_of_Hirakata%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Emblem_of_Hirakata%2C_Osaka.svg/120px-Emblem_of_Hirakata%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Emblem_of_Hirakata%2C_Osaka.svg/120px-Emblem_of_Hirakata%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -16533,7 +16533,7 @@ const subsidyData = [
         "specialNote": "【所得制限なし】"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Emblem_of_Ibaraki%2C_Osaka.svg/120px-Emblem_of_Ibaraki%2C_Osaka.svg.png",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Emblem_of_Ibaraki%2C_Osaka.svg/120px-Emblem_of_Ibaraki%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Emblem_of_Ibaraki%2C_Osaka.svg/120px-Emblem_of_Ibaraki%2C_Osaka.svg.png"
   },
   {
@@ -16570,7 +16570,7 @@ const subsidyData = [
         "specialNote": "※住民税非課税世帯のみ対象"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Emblem_of_Yao%2C_Osaka.svg/120px-Emblem_of_Yao%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Emblem_of_Yao%2C_Osaka.svg/120px-Emblem_of_Yao%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Emblem_of_Yao%2C_Osaka.svg/120px-Emblem_of_Yao%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -16646,7 +16646,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Emblem_of_Neyagawa%2C_Osaka.svg/120px-Emblem_of_Neyagawa%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Emblem_of_Neyagawa%2C_Osaka.svg/120px-Emblem_of_Neyagawa%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Emblem_of_Neyagawa%2C_Osaka.svg/120px-Emblem_of_Neyagawa%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -16740,7 +16740,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Emblem_of_Izumi%2C_Osaka.svg/120px-Emblem_of_Izumi%2C_Osaka.svg.png",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Emblem_of_Izumi%2C_Osaka.svg/120px-Emblem_of_Izumi%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Emblem_of_Izumi%2C_Osaka.svg/120px-Emblem_of_Izumi%2C_Osaka.svg.png"
   },
   {
@@ -16834,7 +16834,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Emblem_of_Kadoma%2C_Osaka.svg/120px-Emblem_of_Kadoma%2C_Osaka.svg.png",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Emblem_of_Kadoma%2C_Osaka.svg/120px-Emblem_of_Kadoma%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Emblem_of_Kadoma%2C_Osaka.svg/120px-Emblem_of_Kadoma%2C_Osaka.svg.png"
   },
   {
@@ -16925,7 +16925,7 @@ const subsidyData = [
         "specialNote": "※住民税非課税世帯のみ対象"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Emblem_of_Higashiosaka%2C_Osaka.svg/120px-Emblem_of_Higashiosaka%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Emblem_of_Higashiosaka.svg/120px-Emblem_of_Higashiosaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Emblem_of_Higashiosaka%2C_Osaka.svg/120px-Emblem_of_Higashiosaka%2C_Osaka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -17087,7 +17087,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Emblem_of_Himeji%2C_Hyogo.svg/120px-Emblem_of_Himeji%2C_Hyogo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Emblem_of_Himeji%2C_Hyogo.svg/120px-Emblem_of_Himeji%2C_Hyogo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Emblem_of_Himeji%2C_Hyogo.svg/120px-Emblem_of_Himeji%2C_Hyogo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -17111,7 +17111,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Emblem_of_Amagasaki%2C_Hyogo.svg/120px-Emblem_of_Amagasaki%2C_Hyogo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Emblem_of_Amagasaki%2C_Hyogo.svg/120px-Emblem_of_Amagasaki%2C_Hyogo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Emblem_of_Amagasaki%2C_Hyogo.svg/120px-Emblem_of_Amagasaki%2C_Hyogo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -17148,7 +17148,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Emblem_of_Akashi%2C_Hyogo.svg/120px-Emblem_of_Akashi%2C_Hyogo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Emblem_of_Akashi%2C_Hyogo.svg/120px-Emblem_of_Akashi%2C_Hyogo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Emblem_of_Akashi%2C_Hyogo.svg/120px-Emblem_of_Akashi%2C_Hyogo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -17172,7 +17172,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Emblem_of_Nishinomiya%2C_Hyogo.svg/120px-Emblem_of_Nishinomiya%2C_Hyogo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Emblem_of_Nishinomiya%2C_Hyogo.svg/120px-Emblem_of_Nishinomiya%2C_Hyogo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Emblem_of_Nishinomiya%2C_Hyogo.svg/120px-Emblem_of_Nishinomiya%2C_Hyogo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -17240,7 +17240,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Emblem_of_Itami%2C_Hyogo.svg/120px-Emblem_of_Itami%2C_Hyogo.svg.png",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Emblem_of_Itami%2C_Hyogo.svg/120px-Emblem_of_Itami%2C_Hyogo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Emblem_of_Itami%2C_Hyogo.svg/120px-Emblem_of_Itami%2C_Hyogo.svg.png"
   },
   {
@@ -17316,7 +17316,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Emblem_of_Kakogawa%2C_Hyogo.svg/120px-Emblem_of_Kakogawa%2C_Hyogo.svg.png",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Emblem_of_Kakogawa%2C_Hyogo.svg/120px-Emblem_of_Kakogawa%2C_Hyogo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Emblem_of_Kakogawa%2C_Hyogo.svg/120px-Emblem_of_Kakogawa%2C_Hyogo.svg.png"
   },
   {
@@ -17384,7 +17384,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Emblem_of_Takarazuka%2C_Hyogo.svg/120px-Emblem_of_Takarazuka%2C_Hyogo.svg.png",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Emblem_of_Takarazuka%2C_Hyogo.svg/120px-Emblem_of_Takarazuka%2C_Hyogo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Emblem_of_Takarazuka%2C_Hyogo.svg/120px-Emblem_of_Takarazuka%2C_Hyogo.svg.png"
   },
   {
@@ -17444,7 +17444,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Emblem_of_Kawanishi%2C_Hyogo.svg/120px-Emblem_of_Kawanishi%2C_Hyogo.svg.png",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Emblem_of_Kawanishi%2C_Hyogo.svg/120px-Emblem_of_Kawanishi%2C_Hyogo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Emblem_of_Kawanishi%2C_Hyogo.svg/120px-Emblem_of_Kawanishi%2C_Hyogo.svg.png"
   },
   {
@@ -17486,7 +17486,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Emblem_of_Sanda%2C_Hyogo.svg/120px-Emblem_of_Sanda%2C_Hyogo.svg.png",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Emblem_of_Sanda%2C_Hy%C5%8Dgo.svg/120px-Emblem_of_Sanda%2C_Hy%C5%8Dgo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Emblem_of_Sanda%2C_Hyogo.svg/120px-Emblem_of_Sanda%2C_Hyogo.svg.png"
   },
   {
@@ -17751,7 +17751,7 @@ const subsidyData = [
         "specialNote": "※市民税非課税世帯のみ対象"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Emblem_of_Nara%2C_Nara.svg/120px-Emblem_of_Nara%2C_Nara.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Emblem_of_Nara%2C_Nara.svg/120px-Emblem_of_Nara%2C_Nara.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Emblem_of_Nara%2C_Nara.svg/120px-Emblem_of_Nara%2C_Nara.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -18049,7 +18049,7 @@ const subsidyData = [
         "specialNote": "※住民税非課税世帯のみ対象"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Emblem_of_Wakayama%2C_Wakayama.svg/120px-Emblem_of_Wakayama%2C_Wakayama.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Emblem_of_Wakayama%2C_Wakayama.svg/120px-Emblem_of_Wakayama%2C_Wakayama.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Emblem_of_Wakayama%2C_Wakayama.svg/120px-Emblem_of_Wakayama%2C_Wakayama.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -18257,7 +18257,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Emblem_of_Tottori%2C_Tottori.svg/120px-Emblem_of_Tottori%2C_Tottori.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Emblem_of_Tottori%2C_Tottori.svg/120px-Emblem_of_Tottori%2C_Tottori.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Emblem_of_Tottori%2C_Tottori.svg/120px-Emblem_of_Tottori%2C_Tottori.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -18364,7 +18364,7 @@ const subsidyData = [
         "specialNote": "※市民税非課税世帯のみ対象"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Emblem_of_Matsue%2C_Shimane.svg/120px-Emblem_of_Matsue%2C_Shimane.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Emblem_of_Matsue%2C_Shimane.svg/120px-Emblem_of_Matsue%2C_Shimane.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Emblem_of_Matsue%2C_Shimane.svg/120px-Emblem_of_Matsue%2C_Shimane.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -18601,7 +18601,7 @@ const subsidyData = [
         "specialNote": "※市民税非課税世帯のみ対象"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem_of_Kurashiki%2C_Okayama.svg/120px-Emblem_of_Kurashiki%2C_Okayama.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Emblem_of_Kurashiki%2C_Okayama.svg/120px-Emblem_of_Kurashiki%2C_Okayama.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem_of_Kurashiki%2C_Okayama.svg/120px-Emblem_of_Kurashiki%2C_Okayama.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -18952,7 +18952,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Emblem_of_Kure%2C_Hiroshima.svg/120px-Emblem_of_Kure%2C_Hiroshima.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Emblem_of_Kure%2C_Hiroshima.svg/120px-Emblem_of_Kure%2C_Hiroshima.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Emblem_of_Kure%2C_Hiroshima.svg/120px-Emblem_of_Kure%2C_Hiroshima.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -19051,7 +19051,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Emblem_of_Fukuyama%2C_Hiroshima.svg/120px-Emblem_of_Fukuyama%2C_Hiroshima.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Emblem_of_Fukuyama%2C_Hiroshima.svg/120px-Emblem_of_Fukuyama%2C_Hiroshima.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Emblem_of_Fukuyama%2C_Hiroshima.svg/120px-Emblem_of_Fukuyama%2C_Hiroshima.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -19248,7 +19248,7 @@ const subsidyData = [
         "specialNote": "※住民税非課税世帯のみ対象"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Emblem_of_Shimonoseki%2C_Yamaguchi.svg/120px-Emblem_of_Shimonoseki%2C_Yamaguchi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Emblem_of_Shimonoseki%2C_Yamaguchi.svg/120px-Emblem_of_Shimonoseki%2C_Yamaguchi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Emblem_of_Shimonoseki%2C_Yamaguchi.svg/120px-Emblem_of_Shimonoseki%2C_Yamaguchi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -19725,7 +19725,7 @@ const subsidyData = [
         "specialNote": "※講座受講必須・県協調事業"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Emblem_of_Takamatsu%2C_Kagawa.svg/120px-Emblem_of_Takamatsu%2C_Kagawa.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Emblem_of_Takamatsu%2C_Kagawa.svg/120px-Emblem_of_Takamatsu%2C_Kagawa.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Emblem_of_Takamatsu%2C_Kagawa.svg/120px-Emblem_of_Takamatsu%2C_Kagawa.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -19944,7 +19944,7 @@ const subsidyData = [
         "specialNote": "※市民税所得割非課税世帯対象"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Emblem_of_Matsuyama%2C_Ehime.svg/120px-Emblem_of_Matsuyama%2C_Ehime.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Emblem_of_Matsuyama%2C_Ehime.svg/120px-Emblem_of_Matsuyama%2C_Ehime.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Emblem_of_Matsuyama%2C_Ehime.svg/120px-Emblem_of_Matsuyama%2C_Ehime.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -20196,7 +20196,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Emblem_of_Kochi%2C_Kochi.svg/120px-Emblem_of_Kochi%2C_Kochi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Emblem_of_Kochi%2C_Kochi.svg/120px-Emblem_of_Kochi%2C_Kochi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Emblem_of_Kochi%2C_Kochi.svg/120px-Emblem_of_Kochi%2C_Kochi.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -20512,7 +20512,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Emblem_of_Kurume%2C_Fukuoka.svg/120px-Emblem_of_Kurume%2C_Fukuoka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Emblem_of_Kurume%2C_Fukuoka.svg/120px-Emblem_of_Kurume%2C_Fukuoka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Emblem_of_Kurume%2C_Fukuoka.svg/120px-Emblem_of_Kurume%2C_Fukuoka.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -21281,7 +21281,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Emblem_of_Nagasaki%2C_Nagasaki.svg/120px-Emblem_of_Nagasaki%2C_Nagasaki.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Nagasaki_Nagasaki_chapter.svg/120px-Nagasaki_Nagasaki_chapter.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Emblem_of_Nagasaki%2C_Nagasaki.svg/120px-Emblem_of_Nagasaki%2C_Nagasaki.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -21305,7 +21305,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Emblem_of_Sasebo%2C_Nagasaki.svg/120px-Emblem_of_Sasebo%2C_Nagasaki.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Emblem_of_Sasebo%2C_Nagasaki.svg/120px-Emblem_of_Sasebo%2C_Nagasaki.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Emblem_of_Sasebo%2C_Nagasaki.svg/120px-Emblem_of_Sasebo%2C_Nagasaki.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -22108,7 +22108,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Emblem_of_Miyazaki%2C_Miyazaki.svg/120px-Emblem_of_Miyazaki%2C_Miyazaki.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Emblem_of_Miyazaki%2C_Miyazaki.svg/120px-Emblem_of_Miyazaki%2C_Miyazaki.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Emblem_of_Miyazaki%2C_Miyazaki.svg/120px-Emblem_of_Miyazaki%2C_Miyazaki.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -22300,7 +22300,7 @@ const subsidyData = [
         "specialNote": ""
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Emblem_of_Kagoshima%2C_Kagoshima.svg/120px-Emblem_of_Kagoshima%2C_Kagoshima.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Emblem_of_Kagoshima%2C_Kagoshima.svg/120px-Emblem_of_Kagoshima%2C_Kagoshima.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Emblem_of_Kagoshima%2C_Kagoshima.svg/120px-Emblem_of_Kagoshima%2C_Kagoshima.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
@@ -22701,7 +22701,7 @@ const subsidyData = [
         "specialNote": "※住民税非課税世帯対象（年度定員制）"
       }
     ],
-    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Emblem_of_Naha%2C_Okinawa.svg/120px-Emblem_of_Naha%2C_Okinawa.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "emblemUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Emblem_of_Naha%2C_Okinawa.svg/120px-Emblem_of_Naha%2C_Okinawa.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "emblem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Emblem_of_Naha%2C_Okinawa.svg/120px-Emblem_of_Naha%2C_Okinawa.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
