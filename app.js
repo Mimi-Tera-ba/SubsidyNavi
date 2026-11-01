@@ -115,7 +115,8 @@ document.addEventListener("DOMContentLoaded", () => {
           <h3 class="empty-title">該当する自治体が見つかりませんでした</h3>
           <p class="empty-desc">
             条件を変えて検索してみてください。<br>
-            ※お探しの自治体が未掲載の場合でも、国の「医療費控除」を活用して購入費の一部を取り戻すことができます。
+            ※お探しの自治体が未掲載の場合でも、国の「医療費控除」を活用して購入費の一部を取り戻すことができます。<br>
+            <a href="https://miminoba.jp/subsidy-guide/" style="display:inline-block; margin-top:10px; color:#ea5504; font-weight:700; text-decoration:underline;">💡 医療費控除の手順ガイドを読む ↗</a>
           </p>
         </div>
       `;
